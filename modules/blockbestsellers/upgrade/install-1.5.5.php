@@ -1,4 +1,5 @@
-/**
+<?php
+/*
 * 2007-2014 PrestaShop
 *
 * NOTICE OF LICENSE
@@ -22,24 +23,11 @@
 *  @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
 *  International Registered Trademark & Property of PrestaShop SA
 */
-function socialsharing_twitter_click(message)
-{
-	if (typeof message === 'undefined')
-		message = encodeURIComponent(location.href);
-	window.open('https://twitter.com/intent/tweet?text=' + message, 'sharertwt', 'toolbar=0,status=0,width=640,height=445');
-}
 
-function socialsharing_facebook_click(message)
-{
-	window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(location.href), 'sharer', 'toolbar=0,status=0,width=660,height=445');
-}
+if (!defined('_PS_VERSION_'))
+  exit;
 
-function socialsharing_google_click(message)
+function upgrade_module_1_5_5($object)
 {
-	window.open('https://plus.google.com/share?url=' + encodeURIComponent(location.href), 'sharergplus', 'toolbar=0,status=0,width=660,height=445');
-}
-
-function socialsharing_pinterest_click(image_url)
-{
-	window.open('http://www.pinterest.com/pin/create/button/?media=' + encodeURIComponent(image_url) + '&url=' + encodeURIComponent(location.href), 'sharerpinterest', 'toolbar=0,status=0,width=660,height=445');
+	return Configuration::updateValue('PS_BLOCK_BESTSELLERS_TO_DISPLAY', 10);
 }
