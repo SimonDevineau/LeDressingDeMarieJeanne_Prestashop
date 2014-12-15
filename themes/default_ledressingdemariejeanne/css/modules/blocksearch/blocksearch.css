@@ -52,7 +52,7 @@
 form#searchbox {
   position: relative; }
   form#searchbox label {
-    color: #333; }
+    color: #484848; }
   form#searchbox input#search_query_block {
     margin-right: 10px;
     max-width: 222px;

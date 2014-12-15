@@ -26,7 +26,7 @@
 .sf-menu ul {
 	position: absolute;
 	top: -999em;
-	background: $light-background;
+	background: $dark-background;
 	@media (max-width: $screen-xs-max) { // max 767px
 		position: relative;
 	}

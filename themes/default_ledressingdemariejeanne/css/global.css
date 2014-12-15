@@ -5299,14 +5299,14 @@ header {
 
 p.info-title {
   font-weight: bold;
-  color: #333;
+  color: #484848;
   margin-bottom: 25px; }
 
 p.info-account {
   margin: -4px 0 24px 0; }
 
 .dark {
-  color: #333; }
+  color: #484848; }
 
 .main-page-indent {
   margin-bottom: 30px; }
@@ -5343,7 +5343,7 @@ p.info-account {
   padding: 6px 10px; }
 
 label {
-  color: #333; }
+  color: #484848; }
   label.required:before {
     content: "*";
     color: red;
@@ -5614,7 +5614,7 @@ span.exclusive {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#fbfbfb',GradientType=0); }
   .btn.button-plus:hover,
   .btn.button-minus:hover {
-    color: #333; }
+    color: #484848; }
     .btn.button-plus:hover span,
     .btn.button-minus:hover span {
       filter: none;
@@ -5624,7 +5624,7 @@ span.exclusive {
   font-size: 17px;
   padding: 0;
   line-height: 21px;
-  color: #333;
+  color: #484848;
   font-weight: bold;
   border: 1px solid;
   border-color: #cacaca #b7b7b7 #9a9a9a #b7b7b7;
@@ -5687,7 +5687,7 @@ span.exclusive {
 
 .button.lnk_view {
   font: 700 17px/21px Arial, Helvetica, sans-serif;
-  color: #333;
+  color: #484848;
   text-shadow: 1px 1px white;
   padding: 0;
   border: 1px solid;
@@ -5758,7 +5758,7 @@ table.table_block td {
   .table > thead > tr > th {
     background: #F0F0F0;
     border-bottom-width: 1px;
-    color: #333;
+    color: #484848;
     vertical-align: middle; }
   .table td a.color-myaccount {
     color: #777;
@@ -5790,7 +5790,7 @@ table.table_block td {
 
 .price.product-price {
   font: 600 21px/26px "Open Sans", sans-serif;
-  color: #333; }
+  color: #484848; }
 
 .old-price {
   color: #6f6f6f;
@@ -6075,7 +6075,7 @@ table.table_block td {
     color: #555454; }
     .block .title_block a:hover,
     .block h4 a:hover {
-      color: #333; }
+      color: #484848; }
 .block .list-block {
   margin-top: -8px; }
   @media (max-width: 767px) {
@@ -6090,10 +6090,10 @@ table.table_block td {
       content: "\f105";
       display: inline;
       font-family: "FontAwesome";
-      color: #333;
+      color: #484848;
       padding-right: 8px; }
     .block .list-block li a:hover {
-      color: #333;
+      color: #484848;
       font-weight: bold; }
     .block .list-block li:first-child {
       border-top: none; }
@@ -6146,7 +6146,7 @@ table.table_block td {
   .page-heading span.heading-counter {
     font: bold 13px/22px Arial, Helvetica, sans-serif;
     float: right;
-    color: #333;
+    color: #484848;
     text-transform: none;
     margin-bottom: 10px; }
     @media (max-width: 480px) {
@@ -6254,17 +6254,17 @@ ul.footer_links {
         color: #e1e0e0; }
       .content_sortPagiBar .display li a:hover i,
       .content_sortPagiBar .display_m li a:hover i {
-        color: gray; }
+        color: #959595; }
     .content_sortPagiBar .display li.selected a,
     .content_sortPagiBar .display_m li.selected a {
       cursor: default; }
     .content_sortPagiBar .display li.selected i,
     .content_sortPagiBar .display_m li.selected i {
-      color: #333; }
+      color: #484848; }
     .content_sortPagiBar .display li.display-title,
     .content_sortPagiBar .display_m li.display-title {
       font-weight: bold;
-      color: #333;
+      color: #484848;
       padding: 7px 6px 0 0; }
 
 .top-pagination-content,
@@ -6387,7 +6387,7 @@ ul.footer_links {
         margin-left: 10px; }
       .top-pagination-content ul.pagination li.active > span,
       .bottom-pagination-content ul.pagination li.active > span {
-        color: #333;
+        color: #484848;
         border-color: #dfdede #d2d0d0 #b0afaf #d2d0d0; }
         .top-pagination-content ul.pagination li.active > span span,
         .bottom-pagination-content ul.pagination li.active > span span {
@@ -6440,7 +6440,7 @@ ul.step {
     ul.step li span, ul.step li.step_current span, ul.step li.step_current_end span {
       display: block;
       padding: 13px 10px 14px 13px;
-      color: #333;
+      color: #484848;
       font-size: 17px;
       line-height: 21px;
       font-weight: bold;
@@ -6551,7 +6551,7 @@ ul.step {
         display: block;
         border: 1px solid;
         border-color: #B5B5B5;
-        color: #333;
+        color: #484848;
         position: relative; }
         @media (min-width: 992px) {
           ul.step li.step_todo span {
@@ -6654,12 +6654,12 @@ div.star a:hover {
   display: block;
   font-weight: bold;
   font-size: 12px;
-  color: #333; }
+  color: #484848; }
 
 .listcomment .txtcomment {
   display: block;
   padding: 5px 0;
-  color: #333; }
+  color: #484848; }
 
 .header-container {
   background: #E5C9A7; }
@@ -6690,7 +6690,7 @@ div.star a:hover {
     margin-left: -26px;
     position: relative;
     z-index: 2;
-    color: #333; }
+    color: #484848; }
     .breadcrumb a.home {
       font-size: 17px;
       color: #777777;
@@ -6950,7 +6950,7 @@ div.star a:hover {
     padding: 0;
     font-size: 17px;
     font-weight: bold;
-    color: #333;
+    color: #484848;
     margin: 9px 0 0 0; }
     .cart_navigation .button-exclusive i {
       color: #777777;
@@ -7002,7 +7002,7 @@ div.star a:hover {
 .cart_delete a.cart_quantity_delete,
 a.price_discount_delete {
   font-size: 23px;
-  color: #333; }
+  color: #484848; }
   .cart_delete a.cart_quantity_delete:hover,
   a.price_discount_delete:hover {
     color: silver; }
@@ -7026,7 +7026,7 @@ a.price_discount_delete {
     padding: 5px 0 0 0; }
 #cart_summary tfoot td.text-right, #cart_summary tfoot tbody td.cart_unit, #cart_summary tbody tfoot td.cart_unit, #cart_summary tfoot tbody td.cart_total, #cart_summary tbody tfoot td.cart_total {
   font-weight: bold;
-  color: #333; }
+  color: #484848; }
 #cart_summary tfoot td.price {
   text-align: right; }
 #cart_summary tfoot td.total_price_container span {
@@ -7035,7 +7035,7 @@ a.price_discount_delete {
   text-transform: uppercase; }
 #cart_summary tfoot td#total_price_container {
   font: 600 21px/25px "Open Sans", sans-serif;
-  color: #333;
+  color: #484848;
   background: #E5C9A7; }
 
 #cart_summary .stock-management-on tbody td.cart_description {
@@ -7104,7 +7104,7 @@ a.price_discount_delete {
     text-transform: uppercase;
     padding: 7px 0 10px 0; }
   .cart_voucher .title-offers {
-    color: #333;
+    color: #484848;
     font-weight: bold;
     margin-bottom: 6px; }
   .cart_voucher fieldset {
@@ -7166,7 +7166,7 @@ table#cart_summary .gift-icon {
   padding-bottom: 19px; }
   #multishipping_mode_box .title {
     font-weight: bold;
-    color: #333;
+    color: #484848;
     margin-bottom: 15px; }
   #multishipping_mode_box .description_off {
     display: none; }
@@ -7258,7 +7258,7 @@ table#cart_summary .gift-icon {
   padding-bottom: 16px; }
   .order_carrier_content .carrier_title {
     font-weight: bold;
-    color: #333; }
+    color: #484848; }
   .order_carrier_content .checkbox input {
     margin-top: 2px; }
   .order_carrier_content .delivery_options_address .carrier_title {
@@ -7300,7 +7300,7 @@ p.checkbox.gift {
   margin-bottom: 10px; }
 
 a.iframe {
-  color: #333;
+  color: #484848;
   text-decoration: underline; }
   a.iframe:hover {
     text-decoration: none; }
@@ -7315,7 +7315,7 @@ p.payment_module {
     border-radius: 4px;
     font-size: 17px;
     line-height: 23px;
-    color: #333;
+    color: #484848;
     font-weight: bold;
     padding: 33px 40px 34px 99px;
     letter-spacing: -1px;
@@ -7531,7 +7531,7 @@ p.cheque-indent {
 #manufacturers_list .product-counter a,
 #suppliers_list .product-counter a {
   font-weight: bold;
-  color: #333; }
+  color: #484848; }
   #manufacturers_list .product-counter a:hover,
   #suppliers_list .product-counter a:hover {
     color: #515151; }
@@ -7667,7 +7667,7 @@ table.discount i {
       max-width: 100%; }
   #pagenotfound .pagenotfound h1 {
     font: 600 28px/34px "Open Sans", sans-serif;
-    color: #333;
+    color: #484848;
     text-transform: uppercase;
     margin-bottom: 7px; }
   #pagenotfound .pagenotfound p {
@@ -7679,7 +7679,7 @@ table.discount i {
     margin-bottom: 20px; }
   #pagenotfound .pagenotfound h3 {
     font-weight: bold;
-    color: #333;
+    color: #484848;
     font-size: 13px;
     line-height: normal;
     margin-bottom: 18px; }
@@ -7843,7 +7843,7 @@ div.star.star_hover:after {
   background: none;
   font-size: 28px;
   line-height: 28px;
-  color: #333;
+  color: #484848;
   text-align: center;
   background: white;
   -webkit-border-radius: 50px;

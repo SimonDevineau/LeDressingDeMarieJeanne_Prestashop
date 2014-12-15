@@ -23,7 +23,7 @@
 .sf-menu ul {
   position: absolute;
   top: -999em;
-  background: #E5C9A7; }
+  background: #EEAC5C; }
   @media (max-width: 767px) {
     .sf-menu ul {
       position: relative; } }
@@ -84,7 +84,7 @@
     font-family: "FontAwesome";
     padding-right: 10px; }
   .sf-menu li li li a:hover {
-    color: #333; }
+    color: #484848; }
 
 .sf-menu li ul {
   display: none;
@@ -141,7 +141,7 @@ ul.sf-menu li li li.sfHover ul {
   .sf-menu > li > ul > li > a {
     text-transform: uppercase;
     font: 600 16px/20px "Open Sans", sans-serif;
-    color: #333; }
+    color: #484848; }
     .sf-menu > li > ul > li > a:hover {
       color: #515151; }
 
