@@ -3,3 +3,5 @@ admin8630/
 cache/
 install/
 install.old/
+modules/gamification/
+*/.sass-cache/*
