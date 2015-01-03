@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blog FR</title>
+	<atom:link href="http://www.prestashop.com/blog/fr/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.prestashop.com/blog/fr</link>
+	<description></description>
+	<lastBuildDate>Tue, 30 Dec 2014 23:40:28 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4</generator>
+		<item>
+		<title>Comment trouver le meilleur nom de domaine pour votre boutique en ligne</title>
+		<link>http://www.prestashop.com/blog/fr/comment-trouver-le-meilleur-nom-de-domaine-pour-votre-boutique-en-ligne/</link>
+		<comments>http://www.prestashop.com/blog/fr/comment-trouver-le-meilleur-nom-de-domaine-pour-votre-boutique-en-ligne/#comments</comments>
+		<pubDate>Mon, 29 Dec 2014 11:00:51 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17910</guid>
+		<description><![CDATA[Dans l&#8217;univers de l&#8217;e-commerce, tout commence par un nom de domaine. A l&#8217;instar du choix de l&#8217;implantation d&#8217;un magasin de bricolage, votre nom de domaine constitue votre identité sur Internet. Choisir un lieu inadapté, ou, dans ce cas, un nom &#8230; <a href="http://www.prestashop.com/blog/fr/comment-trouver-le-meilleur-nom-de-domaine-pour-votre-boutique-en-ligne/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p style="text-align: justify;">Dans l&#8217;univers de l&#8217;e-commerce, tout commence par un nom de domaine. A l&#8217;instar du choix de l&#8217;implantation d&#8217;un magasin de bricolage, votre nom de domaine constitue votre identité sur Internet. Choisir un lieu inadapté, ou, dans ce cas, un nom de domaine inefficace peut déterminer la réussite ou l&#8217;échec de votre boutique en ligne.</p>
+<p style="text-align: left;">Aujourd&#8217;hui, je vais partager avec vous des astuces pour choisir le nom de domaine qui contribuera au succès de votre boutique en ligne.</p>
+<p style="text-align: center;"><img class="aligncenter size-large wp-image-17911" title="domain2" src="http://www.prestashop.com/blog/fr/files/2014/12/domain2-1024x537.jpg" alt="header" width="584" height="306" /></p>
+<p style="text-align: center;"><span id="more-17910"></span></p>
+<p style="text-align: justify;">Il existe deux stratégies différentes pour le choix du nom de votre site e-commerce : un nom de domaine associé à des mots-clés ou un nom de domaine qui utilise votre marque. C&#8217;est à vous de décider quelle option vous convient le mieux. C&#8217;est parti !</p>
+<h4><span style="color: #ff6600;">Noms de domaines à mots-clés</span></h4>
+<p style="text-align: justify;">L&#8217;approche la plus simple consiste à établir une liste de 15 à 20 phrases-clés qui définissent les produits que vous vendez. Par exemple, si vous vendez des meubles, il se peut que vous souhaitiez utiliser le mot « maison » dans votre nom de domaine. Même chose si vous vendez du maquillage, vous pouvez vouloir inclure le mot-clé « cosmétique ». Afin de vous aider à choisir le nom de domaine le plus adapté à vos besoins, voici nos conseils :</p>
+<p style="padding-left: 30px; text-align: justify;"><span style="color: #ff6600;">-</span> <strong>Pensez à des phrases courtes</strong> &#8211; 2 à 3 mots-clés suffisent<br />
+<span style="color: #ff6600;">-</span> <strong>Veillez à ce que l&#8217;orthographe, la prononciation et la mémorisation restent simples</strong> – votre nom de domaine doit être facilement mémorisable et marquer les esprits.<br />
+<span style="color: #ff6600;">-</span> <strong>Faites des recherches</strong> &#8211; listez le nombre de fois qu&#8217;un mot-clé apparaît pour vous assurer de choisir le nom le plus adapté.<br />
+Remarque : l&#8217;ajout de tirets à votre nom de domaine n&#8217;affecte pas les résultats des recherches effectuées pour votre boutique en ligne. Cependant, il est probable que les utilisateurs omettent la présence de tirets.<br />
+Voici des exemples de noms de domaines qui incluent des mots-clés utilisés à bon escient par des boutiques en ligne PrestaShop :</p>
+<p style="padding-left: 30px;"><span style="color: #ff6600;">-</span> www.gardenhome.it<br />
+<span style="color: #ff6600;">-</span> www.johnsonspopcorn.com<br />
+<span style="color: #ff6600;">-</span> www.egolf-balls.com<br />
+<span style="color: #ff6600;">-</span> www.tennisbrands.ru</p>
+<h4><span style="color: #ff6600;">Noms de domaines basés sur une marque</span></h4>
+<p style="text-align: justify;">Si vous décidez de créer un nom de domaine à l&#8217;image de votre marque, sans mots-clés pertinents, vous devez savoir que vos pages Web doivent inclure une fonction de référencement naturel pour attirer des visiteurs. Un nom de domaine basé sur votre marque doit également correspondre aux produits que vous vendez. Par exemple, si mon site d&#8217;e-commerce s&#8217;intitule « Le dressing de Nathalie », je vends probablement des vêtements féminins. L&#8217;orthographe, la prononciation et la mémorisation doivent bien sûr toujours être simples. Veillez également à ce que le nom de votre site soit unique, ou ne soit pas trop similaire à un autre, auquel cas vous perdrez facilement en trafic et enfreindrez potentiellement des lois de propriété intellectuelle.<br />
+Voici des exemples de noms de domaines basés sur des marques utilisés à bon escient par des boutiques en ligne PrestaShop :</p>
+<p style="padding-left: 30px;"><span style="color: #ff6600;">-</span> www.shop.heydude.pl/pl/<br />
+<span style="color: #ff6600;">-</span> www.lilac-lane.de/<br />
+<span style="color: #ff6600;">-</span> www.madamechoup.com/<br />
+<span style="color: #ff6600;">-</span> www.fontable.it/</p>
+<h4><span style="color: #ff6600;">Liens utiles</span></h4>
+<p style="text-align: justify;">Pour vous aider au maximum dans votre réflexion et votre choix, voici quelques liens qui vous seront utiles.<br />
+Ces sites Web vous permettent de saisir les mots que vous souhaitez inclure dans votre nom de domaine et vous proposent une liste de suggestions de noms de domaines disponibles qui s&#8217;appuient sur ces mots-clés :</p>
+<p style="padding-left: 30px;"><span style="color: #ff6600;">-</span> <a href="http://www.domainsbot.com/" target="_blank">DomainsBot</a><br />
+<span style="color: #ff6600;">-</span> <a href="http://www.leandomainsearch.com/" target="_blank">Lean Domain Search</a></p>
+<p style="text-align: justify;">Une fois votre nom de domaine choisi, nous vous recommandons fortement d&#8217;utiliser l&#8217;un de nos <a href="http://www.prestashop.com/fr/hebergement-ecommerce" target="_blank">hébergeurs</a> partenaires pour acquérir votre nom de domaine et héberger votre boutique en ligne PrestaShop.</p>
+<p style="text-align: justify;">Vous êtes maintenant prêt à vous lancer dans la création d&#8217;un site d&#8217;e-commerce à succès ! Vous souhaitez commencer à utiliser PrestaShop ? Créez et gérez votre propre boutique en ligne GRATUITEMENT : <a href="http://www.prestashop.com/fr/telechargement" target="_blank">téléchargez PrestaShop dès aujourd&#8217;hui !</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/comment-trouver-le-meilleur-nom-de-domaine-pour-votre-boutique-en-ligne/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>La sélection de l’équipe du mois de Décembre : 4 fonctionnalités pour booster votre activité</title>
+		<link>http://www.prestashop.com/blog/fr/la-selection-de-lequipe-du-mois-de-decembre-4-fonctionnalites-pour-booster-votre-activite/</link>
+		<comments>http://www.prestashop.com/blog/fr/la-selection-de-lequipe-du-mois-de-decembre-4-fonctionnalites-pour-booster-votre-activite/#comments</comments>
+		<pubDate>Mon, 22 Dec 2014 14:12:12 +0000</pubDate>
+		<dc:creator>Elie Tronel</dc:creator>
+				<category><![CDATA[Partenaires PrestaShop]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17986</guid>
+		<description><![CDATA[Nous sommes maintenant à la veille des fêtes, quoi de mieux en cette fin d’année que de nouvelles fonctionnalités pour maximiser vos ventes et votre visibilité. Nous avons sélectionné pour vous quatre modules : MaPubFacile : Création et diffusion de campagnes &#8230; <a href="http://www.prestashop.com/blog/fr/la-selection-de-lequipe-du-mois-de-decembre-4-fonctionnalites-pour-booster-votre-activite/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><img class="alignnone size-full wp-image-18192" src="http://www.prestashop.com/blog/en/files/2014/08/staff-picks-1.png" alt="" width="200" height="155" align="right" />Nous sommes maintenant à la veille des fêtes, quoi de mieux en cette fin d’année que de nouvelles fonctionnalités pour maximiser vos ventes et votre visibilité.</p>
+<p>Nous avons sélectionné pour vous quatre modules :</p>
+<p><a href="#mapubfacile"><span style="color: #99cc00;"><strong>MaPubFacile</strong></span></a> : Création et diffusion de campagnes publicitaires<br />
+<a href="#klikandpay"><span style="color: #99cc00;"><strong>Klik &amp; Pay</strong> </span></a> : Solution de paiement sécurisée<br />
+<a href="#ovh"><span style="color: #99cc00;"><strong>OVH</strong></span></a> : Solution d’hébergement<br />
+<a href="#stickngo"><span style="color: #99cc00;"><strong>StickN Go par Avery</strong></span></a> : Personnalisation d’étiquettes colis</p>
+<p><span id="more-17986"></span><br />
+<a name="mapubfacile"></a></p>
+<h2><a href="http://addons.prestashop.com/fr/publicite-marketing-newsletter-modules/18044-mapubfacile.html" target="_blank"><span style="color: #008000;">1. MaPubFacile</span></a></h2>
+<p style="text-align: center;"><img class="aligncenter  wp-image-18036" title="ma pub facile" src="http://www.prestashop.com/blog/fr/files/2014/12/ma-pub-facile.png" alt="" width="482" height="394" /></p>
+<p><span style="color: #ed2279;"><strong>À quoi sert cette fonctionnalité ?</strong></span></p>
+<p>Avec MaPubFacile vous augmentez votre notoriété quel que soit votre budget en mettant en place des bannières publicitaires sur des sites à forte audience.</p>
+<p>Vous aurez la possibilité de cibler votre zone de chalandise (Ville, Département, Région, Pays) mais aussi un segment particulier  (Sexe, Catégorie socio-professionnelle, âge etc). Suivez les performances de vos campagnes jour après jour !<strong></strong><br />
+<strong></strong></p>
+<p><span style="color: #ed2279;"><strong>Pourquoi l’avons-nous sélectionnée ?</strong></span></p>
+<p>Ce module est très simple d’utilisation, il suffit de créer un compte sur le site MaPubFacile et votre publicité sera en ligne en 5 minutes.<br />
+La publicité est un excellent moyen pour vous faire connaître auprès de votre cible. Vous pourrez communiquer sur 200 sites web français à forte notoriété et boosterez ainsi votre popularité et le trafic sur votre site.</p>
+<p><span style="color: #ed2279;"><strong>Comment vous aide-t-elle à améliorer votre conversion ?</strong></span></p>
+<p>Faire des publicités ciblées est un moyen qui vous assure un trafic plus important et surtout qualifié.</p>
+<p>Avec cette hausse de trafic vous augmentez votre notoriété, ce qui influera sur le taux de conversion. Votre site e-commerce gagnera en crédibilité en étant présent sur des sites de confiance.</p>
+<p>Une fois votre campagne lancée vous aurez la possibilité d’en assurer le suivi via un tableau de bord personnalisé. Ainsi vous pourrez mesurer vos performances et adapter vos prochaines campagnes.</p>
+<p><a name="klikandpay"></a></p>
+<h2><a href="http://addons.prestashop.com/fr/paiement/17911-klikandpay.html" target="_blank"><span style="color: #008000;">2. Klik and Pay</span></a></h2>
+<p style="text-align: center;"><img class="aligncenter  wp-image-17992" src="http://www.prestashop.com/blog/fr/files/2014/12/klik.png" alt="" width="520" height="362" /></p>
+<p><span style="color: #ed2279;"><strong>À quoi sert cette fonctionnalité ?</strong></span></p>
+<p>Klik and Pay est un module de paiement permettant à vos clients de régler leur achat par cartes bancaires (Visa, MasterCard, Amex&#8230;) Chèques, Virement et prélèvement SEPA.</p>
+<p>Vous avez également la possibilité de gérer vos comptes marchands dans plus de 20 devises.</p>
+<p>Avec ce module vous avez une solution de paiement complète sans avoir besoin de contrat de VAD vous libérant ainsi de toutes les démarches administratives longues et fastidieuses.</p>
+<p><span style="color: #ed2279;"><strong>Pourquoi l’avons-nous sélectionnée ?</strong></span></p>
+<p>Facile d’utilisation, Klik and Pay vous permet d’offrir à vos clients un paiement sécurisé accessible sur PC, Tablette et Smartphone, en partenariat avec des banques.</p>
+<p>Klik and Pay  accompagne les marchands depuis plus de 15 ans, en France, en  Europe et partout dans le monde.</p>
+<p><span style="color: #ed2279;"><strong>Comment vous aide-t-elle à améliorer votre conversion ?</strong></span></p>
+<p>Le fait d’avoir un module de paiement rapide et sécurisé met le client dans les meilleurs conditions, il a la possibilité d’effectuer son achat dans la devise de son choix (Euro, franc Suisse, Dollar Américain, Yen, Livre Sterling etc).</p>
+<p>Les pages de paiement peuvent être présentées en Français, Anglais, Allemand, Espagnol, Italien ou Néerlandais ce qui rassure les clients. De plus le module possède des systèmes de cryptage et anti-fraude pour que la sécurité des transactions en ligne soit optimale.</p>
+<p>Le paiement peut s’effectuer par e-mail ou par SMS, le client a également la possibilité de régler en payant comptant ou en plusieurs fois (2 à 6).</p>
+<p>Ces facilités de paiement et la sécurité vous permettront de d’améliorer votre taux de conversion.</p>
+<p><a name="ovh"></a></p>
+<h2><a href="http://www.ovh.com/fr/solutions/prestashop/?pk_campaign=partenariatprestashop&amp;pk_kwd=pagefr" target="_blank"><span style="color: #008000;">3. OVH</span></a></h2>
+<p style="text-align: center;"><img class="aligncenter  wp-image-18004" src="http://www.prestashop.com/blog/fr/files/2014/12/ovh.png" alt="" width="488" height="264" /></p>
+<p><span style="color: #ed2279;"><strong>À quoi sert cette fonctionnalité ?</strong></span></p>
+<p>OVH vous permet d’héberger votre site internet avec la possibilité d’avoir un serveur dédié et un hébergement mutualisé.</p>
+<p>C’est un hébergeur sécurisé avec lequel vous pouvez acheter votre nom de domaine et gérer les éventuels pic de charge sur votre site e-commerce.</p>
+<p>Un hébergeur de qualité est aujourd’hui une priorité pour tout  e-commerçant souhaitant avoir une boutique fluide, rapide et sécurisée.</p>
+<p><span style="color: #ed2279;"><strong>Pourquoi l’avons-nous sélectionnée ?</strong></span></p>
+<p>OVH est le n°1 de l’hébergement web en France et en Europe avec 15 ans d’expérience.</p>
+<p>Un des principaux avantages d’OVH est sa facilité d’utilisation, en effet il ne requiert aucune compétence technique particulière.<strong></strong></p>
+<p><span style="color: #ed2279;"><strong>Comment vous aide-t-elle à améliorer votre conversion ?</strong></span></p>
+<p>L’hébergeur OVH est très performant et gère les fortes affluences que votre site peut connaitre pendant les périodes de soldes ou une campagne de pub. Votre site sera toujours accessible même si un grand nombre de personnes consulte votre boutique en ligne.</p>
+<p>Cette rapidité de chargement rendra donc la visite plus agréable pour le client qui bénéficiera ainsi d’une expérience d’achat optimale.</p>
+<p>A savoir que 40% des clients quittent un site internet lorsque les pages chargent en plus de 3 secondes.</p>
+<p>OVH est l’hébergeur parfait pour une boutique en ligne performante !</p>
+<p><a name="stickngo"></a></p>
+<h2><a href="http://www.prestashop.com/fr/partenaires/livraison/stickngo" target="_blank"><span style="color: #008000;">4. StickN Go par Avery</span></a></h2>
+<p style="text-align: center;"><img class="aligncenter  wp-image-17995" src="http://www.prestashop.com/blog/fr/files/2014/12/stickNgo.png" alt="" width="544" height="168" /></p>
+<p><span style="color: #ed2279;"><strong>À quoi sert cette fonctionnalité ?</strong></span></p>
+<p>Avery est le leader mondial de la fabrication d’étiquettes adhésives et d’articles en papier, ils ont créé le module SickN Go, solution idéale pour vos factures et bons de livraison.</p>
+<p>Imprimez vos factures et bons de livraison en une fois, l’étiquette avec l’adresse du destinataire est détachable pour la coller directement sur le colis à envoyer. Vous gagnerez du temps et éviterez les erreurs.</p>
+<p>Regroupez en un seul geste l’ensemble des actions nécessaires à une expédition réussie depuis votre site e-commerce :</p>
+<p><span style="color: #ed2279;"><strong>Pourquoi l’avons-nous sélectionnée ?</strong></span></p>
+<p><strong></strong>StickN Go facilite le processus d’expédition, vous n’aurez plus à préparer vos bons de livraison d’un côté et les adresses des clients de l’autre. Il n’y aura donc plus de risque qu’un colis soit mal expédié et que cela vous fasse perdre du temps et peut être des clients.</p>
+<p><span style="color: #ed2279;"><strong>Comment vous aide-t-elle à améliorer votre conversion ?</strong></span></p>
+<p>Le format est adapté pour imprimer directement le bon de livraison/facture depuis l’outil gestion PrestaShop, l’étiquette est positionnée à l’endroit de l’adresse du client. Ce module facilitera le processus d’envoi et optimisera la qualité de livraison pour les clients.</p>
+<p>Un service de qualité encourage toujours les clients à revenir sur votre site e-commerce.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/la-selection-de-lequipe-du-mois-de-decembre-4-fonctionnalites-pour-booster-votre-activite/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Success story : Vendre des produits numériques en ligne efficacement</title>
+		<link>http://www.prestashop.com/blog/fr/success-story-vendre-des-produits-numeriques-en-ligne-efficacement/</link>
+		<comments>http://www.prestashop.com/blog/fr/success-story-vendre-des-produits-numeriques-en-ligne-efficacement/#comments</comments>
+		<pubDate>Thu, 18 Dec 2014 08:30:43 +0000</pubDate>
+		<dc:creator>Magali Ferber</dc:creator>
+				<category><![CDATA[Success Story]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17972</guid>
+		<description><![CDATA[Dulzura de Papel est une boutique PrestaShop conçue et développée par Jimena, graphiste et photographe passionnée, propriétaire d&#8217;un atelier de création graphique à Buenos Aires. Jimena a trouvé un marché de niche avec la vente de décorations à thème personnalisables &#8230; <a href="http://www.prestashop.com/blog/fr/success-story-vendre-des-produits-numeriques-en-ligne-efficacement/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><img class="alignright size-full wp-image-19211" title="DulzuraDePapel1" src="http://www.prestashop.com/blog/fr/files/2014/12/DulzuraDePapel1.png" alt="Vendre des produits numériques en ligne efficacement" width="580" height="351" /></p>
+<p>Dulzura de Papel est une boutique PrestaShop conçue et développée par Jimena, graphiste et photographe passionnée, propriétaire d&#8217;un atelier de création graphique à Buenos Aires. Jimena a trouvé un marché de niche avec la vente de décorations à thème personnalisables pour les fêtes d&#8217;enfants comme les anniversaires, les baby showers et les baptêmes.<br />
+<span id="more-17972"></span><br />
+Jimena a de grandes ambitions et fait confiance à PrestaShop pour l&#8217;aider à relever de nouveaux défis tels que le développement de sa boutique dans le monde entier. Dans cet article, nous allons découvrir la success story de Jimena et ses conseils en matière de e-commerce à tous les marchands qui souhaitent vendre des produits téléchargeables en ligne.</p>
+<h2 style="color: #ff61b0;">Une maman dynamique</h2>
+<p>C&#8217;est en côtoyant les autres mamans de l&#8217;école de sa fille que Jimena a eu l&#8217;idée de Dulzura de Papel. « J&#8217;avais envie de créer une solution à la fois esthétique, rapide et facilement personnalisable destinée aux mamans qui organisent des fêtes pour leurs enfants, mais qui n&#8217;ont pas le temps de s&#8217;occuper de la déco. » Avec Dulzura de Papel, les clients peuvent télécharger des décorations à thème personnalisables pour les fêtes d&#8217;enfants.</p>
+<p>« Il s&#8217;agit de passer progressivement de mon atelier de création physique à une boutique en ligne pouvant fonctionner toute seule », explique Jimena. « Cette migration va me donner la flexibilité dont j&#8217;ai besoin pour faire ce que j&#8217;aime, c&#8217;est-à-dire passer du temps avec ma fille. »</p>
+<p><img class="alignright size-full wp-image-19212" title="DulzuraDePapel2" src="http://www.prestashop.com/blog/fr/files/2014/12/DulzuraDePapel2.png" alt="Une maman dynamique" width="580" height="257" /></p>
+<h2 style="color: #ff61b0;">Le logiciel idéal pour la boutique de ses rêves</h2>
+<p>Trouver le bon logiciel n&#8217;a pas été une mince affaire. « J&#8217;ai d&#8217;abord essayé de concevoir la boutique avec WordPress car je connaissais cet outil. J&#8217;ai acheté des modules et j&#8217;ai essayé de les installer, mais le processus s&#8217;est avéré extrêmement fastidieux. Même le support téléphonique de WordPress en Argentine m&#8217;a dit que j&#8217;aurais du mal à faire fonctionner la boutique comme je le voulais. »</p>
+<p>Déterminée, Jimena s&#8217;est mise en quête d&#8217;un autre logiciel doté des fonctionnalités qui lui permettraient de créer une boutique en ligne de produits numériques. « PrestaShop regroupait tout ce que je recherchais et même davantage. » Jimena a tout de suite été impressionnée par les fonctionnalités natives du logiciel. Grâce à ces dernières, elle peut vendre ses produits numériques facilement. « La version de base présente déjà des fonctionnalités très puissantes comme la géolocalisation IP et l&#8217;option multilingue. »</p>
+<h2 style="color: #ff61b0;">La stratégie de marketing en ligne</h2>
+<p>Après le lancement du site Dulzura de Papel, il a fallu attirer du trafic vers la boutique en ligne à l&#8217;aide des réseaux sociaux et d&#8217;autres stratégies marketing. Jimena a ainsi fait la publicité de sa marque et de son concept sur sa page Facebook (qui compte plus de 26 000 fans), sans rien dépenser ou presque. Pour augmenter la fréquentation de son site e-commerce, elle partage sur les réseaux sociaux des liens qui redirigent les clients vers des produits gratuits de sa boutique en ligne. Elle encourage également les ventes lors de certaines périodes d&#8217;achat privilégiées en Argentine : la fête des mères, la fête des pères, la fête des enfants et la fête des professeurs.</p>
+<p><img class="alignright size-full wp-image-19213" title="DulzuraDePapel3" src="http://www.prestashop.com/blog/fr/files/2014/12/DulzuraDePapel3.png" alt="La stratégie de marketing en ligne" width="580" height="291" /></p>
+<h2 style="color: #ff61b0;">Un processus d&#8217;achat simple</h2>
+<p>Les produits numériques ne nécessitent aucune logistique d&#8217;inventaire ou d&#8217;expédition, mais ils doivent s&#8217;accompagner d&#8217;un processus d&#8217;achat simple et clair. Les informations requises pour le paiement final sont peu nombreuses, ce qui doit permettre d&#8217;aboutir à un processus transparent. Jimena a raccourci son processus de paiement avec la formule de paiement en une page de PrestaShop Addons.</p>
+<p>Grâce à ce processus de paiement simplifié, les clients de Dulzura de Papel effectuent leur paiement, reçoivent un lien par e-mail, puis téléchargent un fichier ZIP contenant des PDF haute qualité.</p>
+<p>Très souvent, les clients de Dulzura de Papel ne sont pas habitués aux produits téléchargeables. Jimena a donc recours à diverses méthodes pour guider ses clients :</p>
+<div style="margin-left: 15px; font-size: 14px;"><span style="color: #ff31b0; font-weight: bold;">1.</span> <span style="font-weight: bold;">Pages d&#8217;information et produit de démonstration :</span>des onglets de type « Comment acheter » et « Comment ça marche » dans le menu principal renvoient vers des pages statiques où chaque étape du processus d&#8217;achat est clairement expliquée. Les clients ont également accès à un exemple de PDF, qui montre à quel point il est rapide et facile de modifier le texte sur les créations une fois que vous les avez achetées.</p>
+<p><span style="color: #ff31b0; font-weight: bold;">2.</span> <span style="font-weight: bold;">Pop-Up :</span> Un pop-up est généré après chaque achat pour rassurer les clients et leur rappeler qu&#8217;un e-mail leur a été envoyé avec le lien permettant de télécharger le produit.</p>
+<p><span style="color: #ff31b0; font-weight: bold;">3.</span> <span style="font-weight: bold;">Guide :</span> un tutoriel est joint à l&#8217;e-mail avec des instructions sur l&#8217;édition et l&#8217;impression, ainsi que d&#8217;autres conseils et idées.</p>
+</div>
+<p><img class="alignright size-full wp-image-19214" title="DulzuraDePapel4" src="http://www.prestashop.com/blog/fr/files/2014/12/DulzuraDePapel4.png" alt="Un processus d'achat simple" width="580" height="282" /></p>
+<h2 style="color: #ff61b0;">La protection des droits d&#8217;auteur de ses produits numériques</h2>
+<p>De la même manière qu&#8217;elle explique le processus de paiement à ses clients, Jimena clarifie les conditions d&#8217;utilisation de ses produits. Elle souligne que le fait de partager, de vendre ou de publier l&#8217;une de ses créations constitue une violation des droits d&#8217;auteur de Dulzura de Papel.</p>
+<p>« Le logiciel PrestaShop inclut une configuration de produit numérique qui génère des liens de téléchargement valables pendant les 30 jours suivant l&#8217;achat et qui autorise 3 téléchargements maximum. Cette fonctionnalité efficace contribue à limiter le risque de diffusion. » Jimena protège en outre ses produits par mot de passe au cas où un client essaierait de les ouvrir sur un logiciel de création graphique afin d&#8217;en modifier les illustrations. « Tous les produits comportent la marque commerciale dulzuradepapel.com et je ne veux pas qu&#8217;on modifie mes créations. Évidemment, il est impossible de contrôler tout ce que font les clients, mais le logiciel met à la disposition des utilisateurs des outils efficaces pour faire respecter les lois relatives à la propriété intellectuelle. »</p>
+<p><img class="alignright size-full wp-image-19215" title="DulzuraDePapel5" src="http://www.prestashop.com/blog/fr/files/2014/12/DulzuraDePapel5.png" alt="La protection des droits d'auteur de ses produits numériques" width="580" height="327" /></p>
+<h2 style="color: #ff61b0;">L&#8217;avenir de Dulzura de Papel</h2>
+<p>« La plupart de mes clients viennent d&#8217;Argentine, du Mexique et d&#8217;autres pays hispanophones », déclare Jimena. « À l&#8217;heure actuelle, ma boutique est uniquement disponible en espagnol. J&#8217;envisage de traduire mon site Web dans d&#8217;autres langues, à commencer par l&#8217;anglais et le portugais, afin que les habitants du monde entier puissent acheter et télécharger mes créations. Grâce à PrestaShop, ce défi est à ma portée. »</p>
+<p>« Mon premier conseil à tous les e-commerçants est le suivant : lancez-vous ! PrestaShop est un logiciel sûr, polyvalent et dynamique dont les nombreux avantages et options vous permettent de tout faire ou presque. » Grâce à sa détermination Jimena a réalisé son rêve en créant une jolie boutique en ligne performante.</p>
+<hr align="left" size="2" width="20%" />
+<p>Vous aussi, vous souhaitez voir vos rêves se réaliser ? Lancez-vous avec le logiciel e-commerce gratuit et open-source <a href="http://www.prestashop.com/fr/telechargement" target="_blank">PrestaShop</a>. Vous ne vous sentez pas tout à fait prêt à vous attaquer à la vente ? Découvrez d&#8217;autres <a href="http://www.prestashop.com/blog/fr/category/success-story/" target="_blank">success stories PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/success-story-vendre-des-produits-numeriques-en-ligne-efficacement/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Top 10 des newsletters e-commerce des marchands PrestaShop pour l&#8217;année 2014</title>
+		<link>http://www.prestashop.com/blog/fr/top-10-des-newsletters-e-commerce-des-marchands-prestashop-pour-lannee-2014/</link>
+		<comments>http://www.prestashop.com/blog/fr/top-10-des-newsletters-e-commerce-des-marchands-prestashop-pour-lannee-2014/#comments</comments>
+		<pubDate>Wed, 17 Dec 2014 08:30:41 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17950</guid>
+		<description><![CDATA[L&#8217;année s&#8217;est écoulée en moins de temps qu&#8217;il ne faut pour le dire et 2015 approche à grands pas. Cette année, certaines des newsletters publiées par les marchands PrestaShop ont véritablement été excellentes. Cela n&#8217;a pas été évident, mais nous &#8230; <a href="http://www.prestashop.com/blog/fr/top-10-des-newsletters-e-commerce-des-marchands-prestashop-pour-lannee-2014/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><img class="alignright size-large wp-image-17952" title="BP_top10newsletters" src="http://www.prestashop.com/blog/fr/files/2014/12/BP_top10newsletters-1024x537.jpg" alt="Top 10 des newsletters e-commerce des marchands PrestaShop pour l'année 2014" width="584" height="306" /></p>
+<p>L&#8217;année s&#8217;est écoulée en moins de temps qu&#8217;il ne faut pour le dire et 2015 approche à grands pas. Cette année, certaines des newsletters publiées par les marchands PrestaShop ont véritablement été excellentes.</p>
+<p>Cela n&#8217;a pas été évident, mais nous avons retenu celles que nous considérons comme les 10 meilleures newsletters e-commerce de 2014. Pour chacune d&#8217;elles, nous avons indiqué l&#8217;objet, la boutique, les raisons pour lesquelles nous l&#8217;avons retenue et ce que vous devriez essayer l&#8217;an prochain. C&#8217;est parti !</p>
+<p><span id="more-17950"></span></p>
+<div style="height: 309px;">
+<div style="float: left; width: 340px; margin-right: 10px;">
+<h4 style="color: #1296a3;"><span style="color: #000000;">1.</span> Merci pour votre inscription, voici votre bon d&#8217;achat ! <a style="color: #1296a3; text-decoration: underline;" href="http://www.bloch.com.au/" target="_blank">Bloch Australia</a></h4>
+<p><strong>Ce qu’on aime :</strong> cet e-mail remercie les clients de s&#8217;être abonnés à la newsletter et les incite à acheter des articles avec un code promo. C&#8217;est la rapidité avec laquelle les clients reçoivent ce bon d&#8217;achat qui va générer des conversions et les convaincre de faire leur premier achat.<br />
+<strong>À essayer :</strong> accueillir les nouveaux clients avec un bon d&#8217;achat.</p>
+<p>(<a href="http://us5.campaign-archive2.com/?u=9c73a1a1b6076ffb51472af60&amp;id=cbcc67ef03&amp;e=3598629b90" target="_blank">Voir la newsletter complète</a>)</p>
+</div>
+<p><img class=" wp-image-19170 alignright" title="1. Thank You for Signing Up Here is Your Voucher" src="http://www.prestashop.com/blog/fr/files/2014/12/1.-Thank-You-for-Signing-Up-Here-is-Your-Voucher.png" alt="Bloch Australia" width="210" height="280" /></p>
+</div>
+<div style="height: 357px;">
+<div style="float: left; width: 340px; margin-right: 10px;">
+<h4 style="color: #1296a3;"><span style="color: #000000;">2.</span> Une livraison à l&#8217;international et de nouveaux produits <a style="color: #1296a3; text-decoration: underline;" href="https://www.eatingtools.com/" target="_blank">Eating Tools</a></h4>
+<p><strong>Ce qu’on aime :</strong> c&#8217;est grâce aux newsletters que vous pouvez entrer en contact avec vos clients. Utilisez-les pour les informer de la mise en place de nouveaux services, comme l&#8217;expédition à l&#8217;international, ou de nouveaux produits. Ces deux aspects sont parfaitement traités dans cette newsletter, qui capte notre attention en dévoilant toute l&#8217;histoire du nouveau produit.<br />
+<strong>À essayer :</strong> informer les clients des nouveaux services.</p>
+<p>(<a href="http://www.prestashop.com/blog/en/files/2014/12/2-large1.png" target="_blank">Cliquez pour agrandir</a>)</p>
+</div>
+<p><img class="alignright wp-image-19181" title="2. eatingtools" src="http://www.prestashop.com/blog/fr/files/2014/12/2.-eatingtools.png" alt="Eating Tools" width="210" height="280" /></p>
+</div>
+<div style="height: 357px;">
+<div style="float: left; width: 340px; margin-right: 10px;">
+<h4 style="color: #1296a3;"><span style="color: #000000;">3.</span> ARTOYZ NEWS 211 : un nouveau look pour Artoyz avec toutes les actualités à ne pas manquer ! <a style="color: #1296a3; text-decoration: underline;" href="http://artoyz.com/" target="_blank">Artoyz</a></h4>
+<p><strong>Ce qu’on aime :</strong> cette newsletter annonce le nouveau concept de la boutique en ligne afin que les clients sachent à quoi s&#8217;attendre et ne soient pas déroutés. Un nouveau design de site Web rend la plupart des marchands tellement enthousiastes qu&#8217;ils en oublient de prévenir les clients : ne vous faites pas prendre au piège.<br />
+<strong>À essayer :</strong> annoncer la refonte de votre site e-commerce.</p>
+<p>(<a href="http://us3.campaign-archive1.com/?u=5fc4d904321aa12ac274e17be&amp;id=08449cf5da&amp;e=951556627b" target="_blank">Voir la newsletter complète</a>)</p>
+</div>
+<p><img class="alignright  wp-image-19184" title="3. ARTOYZ NEWS 211   Artoyz fait peau neuve avec le plein de news" src="http://www.prestashop.com/blog/fr/files/2014/12/3.-ARTOYZ-NEWS-211-Artoyz-fait-peau-neuve-avec-le-plein-de-news.png" alt="Artoyz" width="210" height="280" /></p>
+</div>
+<div style="height: 309px;">
+<div style="float: left; width: 340px; margin-right: 10px;">
+<h4 style="color: #1296a3;"><span style="color: #000000;">4.</span> CITIZEN : montres Eco-Drive ultra-plates <a style="color: #1296a3; text-decoration: underline;" href="http://www.timefy.com/fr/" target="_blank">Timefy</a></h4>
+<p><strong>Ce qu’on aime :</strong> Timefy met en évidence la marque Citizen dans l&#8217;objet et le contenu de la newsletter. Rien de mieux pour renforcer la crédibilité de votre boutique et attirer l&#8217;attention de vos clients. Et c&#8217;est particulièrement vrai si vous vendez des articles de marques très connues.<br />
+<strong>À essayer :</strong> mettre en évidence les marques populaires.</p>
+<p>(<a href="http://www.prestashop.com/blog/en/files/2014/12/4-Large1.png" target="_blank">Cliquez pour agrandir</a>)</p>
+</div>
+<p><img class="alignright  wp-image-19185" title="4. CITIZEN les montres extra plates Eco Drive" src="http://www.prestashop.com/blog/fr/files/2014/12/4.-CITIZEN-les-montres-extra-plates-Eco-Drive-julie.liu-prestashop.com-Prestashop-SA-Mail.png" alt="Timefy" width="210" height="280" /></p>
+</div>
+<div style="height: 261px;">
+<div style="float: left; width: 340px; margin-right: 10px;">
+<h4 style="color: #1296a3;"><span style="color: #000000;">5.</span> Le bordeaux à l&#8217;honneur ! <a style="color: #1296a3; text-decoration: underline;" href="http://tinycottons.com/" target="_blank">Tiny Cottons</a></h4>
+<p><strong>Ce qu’on aime :</strong> d&#8217;abord, nous adorons ce titre très court qui n&#8217;exige aucun effort de lecture. Lorsque vous ouvrez l&#8217;e-mail, la newsletter traite d&#8217;un sujet unique&#8230; ou plutôt d&#8217;une couleur dans ce cas : le bordeaux.<br />
+<strong>À essayer :</strong> mettre à l&#8217;honneur la couleur tendance de la saison.</p>
+<p>(<a href="http://us7.campaign-archive1.com/?u=ebdd970f3e0157c26ecb9f6cf&amp;id=a8d17f9b8d&amp;e=1de933fd50" target="_blank">Voir la newsletter complète</a>)</p>
+</div>
+<p><img class="alignright  wp-image-19187" title="5. welcome bordeaux" src="http://www.prestashop.com/blog/fr/files/2014/12/5.-welcome-bordeaux.png" alt="Tiny Cottons" width="210" height="280" /></p>
+</div>
+<div style="height: 285px;">
+<div style="float: left; width: 340px; margin-right: 10px;">
+<h4 style="color: #1296a3;"><span style="color: #000000;">6.</span> NOUVEAUTÉS DE LA COLLECTION NÉOPRÈNE <a style="color: #1296a3; text-decoration: underline;" href="http://www.bimbaylola.com/" target="_blank">Bimba y Lola</a></h4>
+<p><strong>Ce qu’on aime :</strong> faites déborder de vitalité vos newsletters 2015 avec des images GIF. C&#8217;est ce qu&#8217;a fait Bimba y Lola pour présenter plusieurs produits en même temps, tout en les accompagnant d&#8217;un e-mail bref et simple. Lancez-vous en créant vos propres animations avec ce <a href="http://gifmaker.me/" target="_blank">site gratuit de création de GIF</a>.<br />
+<strong>À essayer :</strong> donner vie aux produits avec des GIF.</p>
+<p>(<a href="http://www.prestashop.com/blog/en/files/2014/12/6.-large-bimba-y-lola.gif" target="_blank">Cliquez pour agrandir</a>)</p>
+</div>
+<p><img class="alignright  wp-image-19188" title="6. bimba y lola" src="http://www.prestashop.com/blog/fr/files/2014/12/6.-bimba-y-lola.gif" alt="Bimba y Lola" width="210" height="280" /></p>
+</div>
+<div style="height: 285px;">
+<div style="float: left; width: 340px; margin-right: 10px;">
+<h4 style="color: #1296a3;"><span style="color: #000000;">7.</span> Julie, profitez en exclusivité de l&#8217;été ET DE LA LIVRAISON GRATUITE <a style="color: #1296a3; text-decoration: underline;" href="http://condura.com.au/" target="_blank">Condura</a></h4>
+<p><strong>Ce qu’on aime :</strong> la personnalisation de l&#8217;objet attire immédiatement l&#8217;attention. En ajoutant le nom des clients, un message standard semble personnalisé. Et lorsqu&#8217;on ouvre la newsletter, on y trouve un bon d&#8217;achat qui incite les clients (comme moi) à acheter.<br />
+<strong>À essayer :</strong> personnaliser les e-mails avec des informations sur le client.</p>
+<p>(<a href="http://condura.cmail2.com/t/ViewEmail/t/1E34C373FBF72796/34BA5AA3877E8DFD6A4D01E12DB8921D" target="_blank">Voir la newsletter complète</a>)</p>
+</div>
+<p><img class="alignright  wp-image-19189" title="7. Redirecting" src="http://www.prestashop.com/blog/fr/files/2014/12/7.-Redirecting.png" alt="Condura" width="210" height="280" /></p>
+</div>
+<div style="height: 309px;">
+<div style="float: left; width: 340px; margin-right: 10px;">
+<h4 style="color: #1296a3;"><span style="color: #000000;">8.</span> 15 % de remise sur les soins de la peau Mokosh | Filtrez le fluorure jusqu&#8217;à 97 % | Tout nouveau coupe-légumes spirale | 10 $ de réduction sur le kit de compostage Bokashi <a style="color: #1296a3; text-decoration: underline;" href="http://www.biome.com.au/" target="_blank">Biome</a></h4>
+<p><strong>Ce qu’on aime :</strong> l&#8217;objet résume parfaitement la newsletter. Avant même de l&#8217;ouvrir, je connais les offres qui m&#8217;attendent dans l&#8217;e-mail. Si je cherche quelque chose de précis, je sais où le trouver.<br />
+<strong>À essayer :</strong> mettre en évidence vos offres dans l&#8217;objet.</p>
+<p>(<a href="https://go.madmimi.com/redirects/1412734136-300912bc6d3c77d0b3382af796aabb54-15b3b47?pa=25524177318&amp;amx=6812250723" target="_blank">Voir la newsletter complète</a>)</p>
+</div>
+<p><img class="alignright  wp-image-19190" title="8. 15  off Mokosh skincare Filter fluoride by 97 Hot new Veggie spiralizer 10 off Bokashi composting kit" src="http://www.prestashop.com/blog/fr/files/2014/12/8.-15-off-Mokosh-skincare-Filter-fluoride-by-97-Hot-new-Veggie-spiralizer-10-off-Bokashi-composting-kit.png" alt="Biome" width="210" height="280" /></p>
+</div>
+<div style="height: 333px;">
+<div style="float: left; width: 340px; margin-right: 10px;">
+<h4 style="color: #1296a3;"><span style="color: #000000;">9.</span> Des cadeaux qui raviront toutes les mamans <a style="color: #1296a3; text-decoration: underline;" href="http://www.gretelhome.com/" target="_blank">Gretel Home</a></h4>
+<p><strong>Ce qu’on aime :</strong> comme tous les ans, on se fait rattraper par le temps. En proposant des idées de cadeaux, la séance de shopping se fait sans stress et sans effort. Cette newsletter aide les clients à acheter le cadeau parfait pour la Fête des mères en suggérant des produits adaptés à la personnalité de chaque maman.<br />
+<strong>À essayer :</strong> présenter des produits avec des idées cadeaux.</p>
+<p>(<a href="http://www.prestashop.com/blog/en/files/2014/12/9-large1.png" target="_blank">Cliquez pour agrandir</a>)</p>
+</div>
+<p><img class="alignright  wp-image-19191" title="9. Gifts To Put a Spring in Mom s Step" src="http://www.prestashop.com/blog/fr/files/2014/12/9.-Gifts-To-Put-a-Spring-in-Mom-s-Step.png" alt="Gretel Home" width="210" height="280" /></p>
+</div>
+<div style="height: 309px;">
+<div style="float: left; width: 340px; margin-right: 10px;">
+<h4 style="color: #1296a3;"><span style="color: #000000;">10.</span> C&#8217;est la Journée nationale du sac à main ! 20 % de remise sur les sacs ! <a style="color: #1296a3; text-decoration: underline;" href="http://www.whatgoesaroundnyc.com/" target="_blank">What goes around comes around</a></h4>
+<p><strong>Ce qu’on aime :</strong> qui n&#8217;aime pas les journées de fête ? Bien que la Journée nationale du sac à main soit peu célébrée de par le monde, elle représente beaucoup pour cette boutique PrestaShop. Nous adorons son originalité.<br />
+<strong>À essayer :</strong> célébrer des fêtes uniques, mais tout à fait pertinentes.</p>
+<p>(<a href="http://www.whatgoesaroundnyc.com/news/2014/101014.html" target="_blank">Voir la newsletter complète</a>)</p>
+</div>
+<p><img class="alignright  wp-image-19192" title="10. It s National Handbag Day" src="http://www.prestashop.com/blog/fr/files/2014/12/10.-It-s-National-Handbag-Day.png" alt="What goes around comes around" width="210" height="280" /></p>
+</div>
+<hr align="left" size="2" width="20%" />
+<p>Quelles newsletters vont vous inspirer pour 2015 ? Dites-le-nous dans les commentaires ci-dessous. Prêt à envoyer vos propres newsletters ? Procurez-vous le <a href="http://addons.prestashop.com/fr/publicite-marketing-newsletter-modules/4932-newsletter-statistiques.html" target="_blank">Module sur les newsletters</a> de PrestaShop Addons.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/top-10-des-newsletters-e-commerce-des-marchands-prestashop-pour-lannee-2014/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Top 14 des articles les plus lus en 2014</title>
+		<link>http://www.prestashop.com/blog/fr/top-14-des-articles-les-plus-lus-en-2014/</link>
+		<comments>http://www.prestashop.com/blog/fr/top-14-des-articles-les-plus-lus-en-2014/#comments</comments>
+		<pubDate>Mon, 15 Dec 2014 09:35:37 +0000</pubDate>
+		<dc:creator>Camille Sila</dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17941</guid>
+		<description><![CDATA[La fin d’année approche, l’heure est au bilan mais aussi aux remerciements ! Alors c’est un grand merci que nous vous adressons, à vous, lecteurs qui avez sillonné les pages de ce blog et y avez apporté de précieuses contributions. &#8230; <a href="http://www.prestashop.com/blog/fr/top-14-des-articles-les-plus-lus-en-2014/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><img class="aligncenter size-large wp-image-17942" title="BP_Top14" src="http://www.prestashop.com/blog/fr/files/2014/12/BP_Top14-1024x537.jpg" alt="Top 14 des articles les plus lus en 2014" width="584" height="306" /></p>
+<p>La fin d’année approche, l’heure est au bilan mais aussi aux remerciements ! Alors c’est un grand merci que nous vous adressons, à vous, lecteurs qui avez sillonné les pages de ce blog et y avez apporté de précieuses contributions.</p>
+<p>Ils vous ont intéressé, parfois interpellé, vous les avez aimés et commentés mais peut être les avez-vous aussi ratés . Retrouvez le top 14 des articles les plus lus de l’année sur le blog PrestaShop et soyez certains de ne pas avoir manqué un sujet important !</p>
+<p><span id="more-17941"></span></p>
+<h4>1. <a style="color: #336e52; text-decoration: underline;" href="http://www.prestashop.com/blog/fr/creer-sa-boutique-en-ligne-10-questions-a-poser-a-son-developpeur/" target="_blank">Créer sa boutique en ligne : 10 questions à poser à son développeur web</a></h4>
+<p>Trouver le développeur ou l’agence qui va construire la boutique de vos rêves, facile à dire mais pas facile à faire ! Nous avons compilé les 10 questions incontournables à poser à votre développeur avant toute collaboration.</p>
+<h4>2. <a style="color: #336e52; text-decoration: underline;" href="http://www.prestashop.com/blog/fr/le-top-10-des-indicateurs-cles-de-performance-pour-une-boutique-en-ligne-toujours-plus-efficace/" target="_blank">Le Top 10 des indicateurs clés de performance pour une boutique en ligne toujours plus efficace</a></h4>
+<p>Déterminez vos forces et faiblesses en suivant les performances de votre boutique et faites progresser votre activité. Voici une liste non exhaustive d’indicateurs clés de performance sur lesquels vous devriez garder un œil.</p>
+<h4>3. <a style="color: #336e52; text-decoration: underline;" href="http://www.prestashop.com/blog/fr/5-idees-creatives-pour-votre-boutique-en-ligne-inspiration-e-commerce/" target="_blank">5 idées créatives pour votre boutique en ligne – Inspiration e-commerce</a></h4>
+<p>Vous êtes en pleine réflexion sur votre projet e-commerce et cherchez l’idée originale qui saura vous différencier de la concurrence ? Ne manquez pas cet article pour vous inspirer de boutiques qui ont apporté un peu d’originalité dans leur secteur.</p>
+<h4>4. <a style="color: #336e52; text-decoration: underline;" href="http://www.prestashop.com/blog/fr/10-outils-gratuits-au-service-des-professionnels-du-e-commerce/" target="_blank">10 outils gratuits au service des professionnels du e-commerce</a></h4>
+<p>L’article idéal pour les e-commerçants ayant un petit budget ! Design, SEO, test utilisateur ou encore gestionnaire de mots de passe, retrouvez 10 outils gratuits qui vous faciliteront la vie et boosteront votre activité.</p>
+<h4>5. <a style="color: #336e52; text-decoration: underline;" href="http://www.prestashop.com/blog/fr/5-exemples-de-pages-produits-e-commerce-qui-convertissent/" target="_blank"> 5 exemples de pages produits e-commerce qui convertissent</a></h4>
+<p>Ce n’est un secret pour personne la page produit joue un rôle crucial dans la décision d’achat de vos visiteurs. De simples optimisations peuvent augmenter votre taux de conversion, découvrez-les dans cet article !</p>
+<h4>6. <a style="color: #336e52; text-decoration: underline;" href="http://www.prestashop.com/blog/fr/creer-sa-boutique-en-ligne-10-etapes-pour-confectionner-son-business-plan/" target="_blank">Créer sa boutique en ligne : 10 étapes pour confectionner son business plan</a></h4>
+<p>C’est le passage obligé pour tout entrepreneur mais aussi un exercice qui peut se révéler complexe. Il est vrai que le business plan rassemble beaucoup d’informations et ce n’est pas toujours facile de s’y retrouver ! Retrouvez les 10 étapes clé pour réaliser un bon business plan.</p>
+<h4>7. <a style="color: #336e52; text-decoration: underline;" href="http://www.prestashop.com/blog/fr/guide-do-it-yourself-de-le-commerce-pour-de-parfaites-photos-de-produit/" target="_blank">Guide e-commerce pour réaliser des photos de produits parfaites</a></h4>
+<p>Voici le guide parfait pour réaliser des photos produits parfaites. L’expert en optimisation d’images produits Thomas Kragelund vous dévoile tous ses secrets pour des visuels qui amélioreront votre taux de conversion.</p>
+<h4>8. <a style="color: #336e52; text-decoration: underline;" href="http://www.prestashop.com/blog/fr/5-astuces-pour-ameliorer-votre-taux-de-conversion/" target="_blank">5 astuces pour améliorer votre taux de conversion</a></h4>
+<p>Le Saint Graal des e-commerçants : la conversion ! Partez en quête d’un meilleur taux de conversion en mettant en place les 5 astuces simples que nous partageons dans cet article.</p>
+<h4>9. <a style="color: #336e52; text-decoration: underline;" href="http://www.prestashop.com/blog/fr/comment-trouver-les-bons-mots-cles-pour-le-seo-de-votre-site-ecommerce-partie-12/" target="_blank">Comment trouver les bons mots clés pour le SEO de votre site ecommerce – Partie 1/2</a></h4>
+<p>Notre spécialiste SEO vous explique pas à pas comment trouver les bons mots clés pour votre boutique en ligne. Dans une seconde partie de l’article vous apprendrez à structurer votre site e-commerce avec vos mots clés.</p>
+<h4>10. <a style="color: #336e52; text-decoration: underline;" href="http://www.prestashop.com/blog/fr/6-exemples-de-mail-marketing-qui-convertissent/" target="_blank">E-mail marketing : 6 exemples d’e-mails qui convertissent</a></h4>
+<p>L’e-mail n’est pas mort ! C’est un moyen de communication idéal lorsqu’il s’agit d’attirer du trafic sur votre site ou de fidéliser votre clientèle. Découvrez les meilleures pratiques en termes d’email marketing et inspirez-vous d’exemples d’e-mails qui convertissent.</p>
+<h4>11. <a style="color: #336e52; text-decoration: underline;" href="http://www.prestashop.com/blog/fr/10-statistiques-e-commerce-essentielles-pour-google-analytics/" target="_blank">10 statistiques e-commerce essentielles pour Google Analytics</a></h4>
+<p>Pour obtenir plus d’informations sur vos performances et mieux comprendre vos flux d’utilisateurs dans l’entonnoir de conversion, lisez cet article sur les 10 statistiques essentielles pour Google Analytics.</p>
+<h4>12. <a style="color: #336e52; text-decoration: underline;" href="http://www.prestashop.com/blog/fr/10-choses-que-vous-auriez-aime-savoir-avant-douvrir-votre-boutique-en-ligne/" target="_blank">10 choses que vous aimeriez savoir avant d’ouvrir votre boutique en ligne</a></h4>
+<p>Des marchands vous font bénéficier de leur expérience en vous confiant les 10 choses qu’ils auraient aimées savoir avant d’ouvrir leur boutique en ligne. Après la lecture de cet article vous serez paré pour vous lancer dans votre aventure e-commerce.</p>
+<h4>13. <a style="color: #336e52; text-decoration: underline;" href="http://www.prestashop.com/blog/fr/12-methodes-gratuites-pour-booster-votre-site-e-commerce/" target="_blank">12 méthodes gratuites pour booster votre site e-commerce</a></h4>
+<p>Saviez-vous qu’il existe de nombreuses méthodes gratuites pour booster votre activité et votre chiffre d’affaires ? Nous vous présentons un petit tour d’horizon de ces astuces gratuites !</p>
+<h4>14. <a style="color: #336e52; text-decoration: underline;" href="http://www.prestashop.com/blog/fr/7-strategies-a-mettre-en-place-lorsque-le-trafic-de-votre-boutique-en-ligne-baisse/" target="_blank">7 stratégies à mettre en place lorsque le trafic de votre boutique en ligne baisse</a></h4>
+<p>Que faire lorsque votre site de vente en ligne enregistre une baisse de trafic significative ? Premier conseil : ne surtout pas céder à la panique ! Nous vous dévoilons 7 stratégies à mettre en place pour inverser la tendance.</p>
+<p>Continuez de suivre notre blog et retrouvez pleins de bons conseils pour réussir en ligne et tirer le meilleur parti de PrestaShop !<br />
+Vous n’êtes pas encore marchand ? Donnez vie à votre projet e-commerce en <a href="http://www.prestashop.com/fr/telechargement" target="_blank">téléchargeant PrestaShop</a> gratuitement aujourd’hui !</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/top-14-des-articles-les-plus-lus-en-2014/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Le guide complet pour créer des pages CMS sur votre boutique en ligne</title>
+		<link>http://www.prestashop.com/blog/fr/le-guide-complet-pour-creer-des-pages-cms-sur-votre-boutique-en-ligne/</link>
+		<comments>http://www.prestashop.com/blog/fr/le-guide-complet-pour-creer-des-pages-cms-sur-votre-boutique-en-ligne/#comments</comments>
+		<pubDate>Wed, 10 Dec 2014 13:58:11 +0000</pubDate>
+		<dc:creator>Magali Ferber</dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17925</guid>
+		<description><![CDATA[Vous êtes-vous déjà interrogés sur l&#8217;intérêt des liens au bas de chaque page de site Internet ? Et sur les pages statiques vers lesquelles conduisent des liens tels que « À propos », « Livraison », « Mentions légales » &#8230; <a href="http://www.prestashop.com/blog/fr/le-guide-complet-pour-creer-des-pages-cms-sur-votre-boutique-en-ligne/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><img class="aligncenter size-large wp-image-17933" title="BP_CMSpages" src="http://www.prestashop.com/blog/fr/files/2014/12/BP_CMSpages-1024x537.jpg" alt="header" width="584" height="306" />Vous êtes-vous déjà interrogés sur l&#8217;intérêt des liens au bas de chaque page de site Internet ? Et sur les pages statiques vers lesquelles conduisent des liens tels que « À propos », « Livraison », « Mentions légales » ou « Conditions générales » ?</p>
+<p>En raison de la petite taille de police et des structures de phrase complexes, vous avez tendance à ignorer leur existence ; pourtant, ces pages peuvent avoir un impact sur l&#8217;image de votre marque, la fiabilité de votre boutique et, plus important encore, sur le statut légal de votre entreprise.</p>
+<p>Le présent article vous guide dans la rédaction des pages CMS de votre boutique en ligne, en vous expliquant comment les ajouter ou les modifier via le back-office de votre solution PrestaShop.<br />
+<span id="more-17925"></span></p>
+<h2 style="color: #6b7c5b;"><span style="color: #f2a9cd;">1.</span> Regardez autour de vous</h2>
+<p>Contentez-vous de regarder. N&#8217;effectuez aucun copier-coller. Les besoins de chaque entreprise sont différents ; vos pages CMS doivent donc être personnalisées pour répondre aux vôtres. Mais cela ne signifie pas qu&#8217;il vous est interdit de jeter un œil à la concurrence. Au contraire, vos concurrents sont parfois vos meilleurs guides !</p>
+<p>Trouvez les pages CMS de vos concurrents et lisez-les ! Analysez leur contenu, leurs points forts/faibles, leur ton et leur agencement (captures d&#8217;écran, vidéos et formulaires compris). Vous disposez à présent d&#8217;un bon cadre pour vous aider lors de l&#8217;étape suivante : l&#8217;auto-analyse.</p>
+<h2 style="color: #6b7c5b;"><span style="color: #f2a9cd;">2.</span> Pensez à votre entreprise</h2>
+<p>Après un brainstorming, définissez les deux aspects les plus importants du contenu de vos pages CMS :</p>
+<div style="padding: 0 0 0 15px; font-size: 14px;">
+<p><strong>1. Quelles sont les informations à communiquer ?</strong> &#8211; Imaginez que vous êtes un client visitant votre boutique en ligne pour la première fois. Quels types de renseignements souhaiteriez-vous avoir à portée de main ? Exemples : informations sur l&#8217;entreprise, personnes à contacter en cas de question, processus d&#8217;achat, modalités de retour, expédition. Comparez vos idées avec l&#8217;analyse précédente des pages CMS de vos concurrents pour établir une liste finale des thèmes que vous voulez aborder.</p>
+<p><strong>2. Comment communiquer ?</strong> &#8211; Le ton et votre contenu doivent refléter votre culture d&#8217;entreprise. Gardez à l&#8217;esprit que, même si votre culture se veut amicale et conviviale, les pages CMS telles que les conditions générales ou la politique de confidentialité sont contraignantes sur le plan juridique ; vous devez donc consulter un conseiller juridique.</p>
+</div>
+<h2 style="color: #6b7c5b;"><span style="color: #f2a9cd;">3.</span> Décidez du type de pages CMS dont vous avez besoin</h2>
+<p>Les pages CMS sont réparties en trois catégories. Nous avons listé chaque type, en signalant les pages importantes et en détaillant leur objectif. Que vous rédigiez complètement le contenu ou que vous réécriviez une page existante, rappelez-vous que tous les types sont nécessaires en raison de leurs différents impacts sur votre entreprise.</p>
+<div style="padding: 0 0 0 15px; font-size: 14px;"><strong>a. Pages d&#8217;informations</strong><br />
+<span style="font-style: italic;">« À propos », « Contactez-nous »</span><br />
+Racontez des histoires captivantes et motivez vos clients à travers ces pages, qui instaurent la confiance en votre marque. Plus votre entreprise parait humaine, plus la confiance générée sera grande ; or la confiance est directement liée aux ventes. Ce principe s&#8217;applique à tous les sites de e-commerce, quel que soit le produit vendu.</p>
+<p><strong>b. Pages relatives aux processus/procédures</strong><br />
+<span style="font-style: italic;">« Modalités d&#8217;expédition », « Remboursements et échanges »</span><br />
+Expliquez chaque étape du processus d&#8217;achat, procédures de livraison comprises. Si vous vendez à l&#8217;international, détaillez le fonctionnement. Si vous proposez des réductions, incluez une explication sur les conditions d&#8217;application et les possibilités éventuelles de cumul. Si les clients peuvent retourner votre produit, pensez à définir clairement la ou les méthodes de retour, les conditions, les frais supplémentaires, les frais de retour (port payé ou non) et le remboursement (en espèces ou en avoirs).</p>
+<p><strong>c. Pages d&#8217;informations légales</strong><br />
+<span style="font-style: italic;">« Conditions générales », « Paiement sécurisé »</span><br />
+Protégez votre entreprise à l&#8217;aide de ces documents légaux. Votre entreprise étant juridiquement contrainte par ces documents, consultez un conseiller juridique pour vous assurer d&#8217;être pleinement protégés. Cette question est détaillée ci-après.</p>
+</div>
+<h2 style="color: #6b7c5b;"><span style="color: #f2a9cd;">4.</span> Trouvez le titre parfait pour vos pages</h2>
+<p>Il peut être parfois difficile de trouver le titre parfait pour vos pages. Pas d&#8217;inquiétude ! Pour vous permettre de commencer, nous avons rassemblé une liste de pages CMS courantes, accompagnées d&#8217;une brève description ainsi que deux titres accrocheurs.</p>
+<p><strong>Pages d&#8217;informations sur l&#8217;entreprise</strong></p>
+<div style="padding: 0 0 0 15px;">
+<p style="margin: 0;"><span style="text-decoration: underline;">À propos</span> &#8211; partagez l&#8217;historique et les actualités de votre entreprise.</p>
+<ul style="margin: 0 0 12px 0; padding: 0 0 0 30px;">
+<li>Notre histoire</li>
+<li>À propos de [nom de l'entreprise]</li>
+</ul>
+<p style="margin: 0;"><span style="text-decoration: underline;">Contacts</span> – listez les numéros de téléphones, adresses e-mail ou postales.</p>
+<ul style="margin: 0 0 12px 0; padding: 0 0 0 30px;">
+<li>Nous sommes là pour vous.</li>
+<li>Faites-nous signe !</li>
+</ul>
+<p style="margin: 0;"><span style="text-decoration: underline;">Carrière</span> – affichez sur votre site les ouvertures de postes.</p>
+<ul style="margin: 0 0 12px 0; padding: 0 0 0 30px;">
+<li>Trouvez le poste fait pour vous</li>
+<li>Avez-vous le profil ?</li>
+</ul>
+<p style="margin: 0;"><span style="text-decoration: underline;">Notre équipe</span> – parlez de l&#8217;équipe gérant votre boutique.</p>
+<ul style="margin: 0 0 12px 0; padding: 0 0 0 30px;">
+<li>Nos atouts</li>
+<li>La dream team</li>
+</ul>
+<p style="margin: 0;"><span style="text-decoration: underline;">Nos boutiques</span> – énumérez vos points de vente de détail (le cas échéant).</p>
+<ul style="margin: 0 0 12px 0; padding: 0 0 0 30px;">
+<li>Rendez-nous visite à [lieu]</li>
+<li>Passez nous voir !</li>
+</ul>
+</div>
+<p><strong>Pages relatives aux processus/procédures</strong></p>
+<div style="padding: 0 0 0 15px;">
+<p style="margin: 0;"><span style="text-decoration: underline;">Modalités d&#8217;expédition</span> &#8211; listez vos transporteurs, les délais (temps de traitement) et les frais correspondants.</p>
+<ul style="margin: 0 0 12px 0; padding: 0 0 0 30px;">
+<li>Directement de notre entrepôt chez vous</li>
+<li>Livraison</li>
+</ul>
+<p style="margin: 0;"><span style="text-decoration: underline;">Expédition internationale</span> – donnez des détails sur les destinations d&#8217;expédition à l&#8217;international, les transporteurs, les taxes, les règlementations et, surtout, sur les frais éventuels.</p>
+<ul style="margin: 0 0 12px 0; padding: 0 0 0 30px;">
+<li>Nous expédions dans le monde entier !</li>
+<li>Pouvons-nous livrer chez vous ?</li>
+</ul>
+<p style="margin: 0;"><span style="text-decoration: underline;">Retours et échanges</span> – indiquez à vos clients si les retours et échanges sont possibles, et, le cas échéant, quelles en sont les modalités.</p>
+<ul style="margin: 0 0 12px 0; padding: 0 0 0 30px;">
+<li>Le produit ne vous convient pas ? Aucun problème !</li>
+<li>Modalités de retour</li>
+</ul>
+<p style="margin: 0;"><span style="text-decoration: underline;">Bons de réduction et promotions</span> – détaillez les réductions et leurs conditions.</p>
+<ul style="margin: 0 0 12px 0; padding: 0 0 0 30px;">
+<li>Offres</li>
+<li>Faites plus d&#8217;économies !</li>
+</ul>
+</div>
+<p><strong>Pages d&#8217;informations légales</strong><br />
+En raison de la nature de ces pages, nous vous conseillons de conserver les titres suivants pour faciliter leur accessibilité.</p>
+<div style="padding: 0 0 0 15px; font-size: 14px;">
+<p style="margin: 0;"><span style="text-decoration: underline;">Conditions générales</span> – définissez votre entreprise, son nom officiel, son adresse, sa juridiction ainsi que ses droits d&#8217;auteur et marques déposées. Ensuite, définissez votre produit et ses utilisations, garanties et restrictions. Détaillez le processus commercial en incluant toutes les conditions de vente. Intégrez une « limitation de responsabilité » pour limiter les dommages résultant de l&#8217;utilisation de votre produit. Enfin, incorporez une clause relative aux modifications pour vous permettre d&#8217;actualiser périodiquement ce document. Élaborez une première version de vos <a href="https://termsfeed.com/generator/new/terms-conditions?utm_expid=86438702-166.CGO3vkkrS3u2YOz1dy4Nlg.0&amp;utm_referrer=https%3A%2F%2Ftermsfeed.com%2Fterms-conditions%2Fgenerator%2F" target="_blank">conditions générales à l&#8217;aide de ce générateur</a>, puis demandez à votre conseiller juridique de vérifier le document.</p>
+<ul style="padding: 0 0 0 30px; margin: 0 0 12px 0;">
+<li>Conditions d&#8217;utilisation</li>
+<li>Modalités de service</li>
+</ul>
+<p style="margin: 0 0 12px 0;"><span style="text-decoration: underline;">Politique de confidentialité</span> – précisez votre politique en matière de données des clients. Elle doit répondre aux questions suivantes : quelles sont les données clients collectées ? Quelles sont les données enregistrées ? Le cas échéant, comment suivez-vous les activités des clients ? Comment ces données sont-elles utilisées ?</p>
+<p style="margin: 0;"><span style="text-decoration: underline;">Paiement sécurisé</span> &#8211; clarifiez vos solutions de paiement et détaillez le système de paiement, les délais, les processus, la vérification ainsi que la procédure en cas de non-finalisation du paiement. Si vous facturez des frais supplémentaires pour le traitement des transactions internationales, précisez-le sur cette page.</p>
+<ul style="padding: 0 0 0 30px; margin: 0 0 12px 0;">
+<li>Conditions de paiement</li>
+<li>Options de paiement</li>
+</ul>
+<p style="margin: 0;"><span style="text-decoration: underline;">Règles de la communauté</span> – énumérez les règles relatives aux interactions au sein de votre communauté, portant, par exemple, sur la rédaction de commentaires ou la participation à vos forums et blogs. Pensez à indiquer les conséquences en cas de manquement aux règles, en incluant notamment la suppression de contenu ou de compte utilisateur. N&#8217;oubliez pas non plus que, si l&#8217;énumération des règles est importante, celles-ci ne sont efficaces que si vous les appliquez activement.</p>
+<ul style="padding: 0 0 0 30px; margin: 0 0 12px 0;">
+<li>Charte d&#8217;utilisation</li>
+<li>Respect de la communauté</li>
+</ul>
+</div>
+<h2 style="color: #6b7c5b;"><span style="color: #f2a9cd;">5.</span> Rédigez le contenu</h2>
+<p style="margin-bottom: 0;">Quelques astuces à garder à l&#8217;esprit lors de la rédaction du contenu de vos pages CMS :</p>
+<ul style="padding: 0 0 0 30px; margin: 0 0 12px 0;">
+<li>Abordez uniquement les sujets pertinents pour votre secteur et votre entreprise.</li>
+<li>Rédigez dans un français simple, en utilisant le jargon juridique uniquement en cas de besoin.</li>
+<li>Évitez d&#8217;être vagues ou confus, soyez précis.</li>
+<li>Employez un ton représentatif de votre culture d&#8217;entreprise.</li>
+<li>Rédigez dans un style court et concis.</li>
+<li>Organisez votre contenu en parties appropriées avec des titres adaptés.</li>
+<li>Si votre contenu n&#8217;est pas suffisant pour remplir une partie complète, associez-la à une autre.</li>
+</ul>
+<p>Vous avez désormais tous les outils en main pour rédiger des pages CMS de qualité. À vous de jouer.</p>
+<h2 style="color: #6b7c5b;"><span style="color: #f2a9cd;">6.</span> Intégrez vos pages</h2>
+<p>Si vous êtes utilisateurs de PrestaShop, votre boutique en ligne est livrée avec un ensemble de pages par défaut. Il est essentiel d&#8217;actualiser ces pages et d&#8217;en créer de nouvelles dès que votre contenu et vos titres sont prêts. Accédez à ces pages via le chemin suivant : BACK OFFICE &gt; PRÉFÉRENCES &gt; CMS.</p>
+<h2 style="color: #6b7c5b;"><span style="color: #f2a9cd;">7.</span> Mettez et tenez à jour</h2>
+<p>Tenez à jour vos pages CMS avec des informations actualisées. Une page de contacts périmés, avec un numéro de téléphone invalide, risque d&#8217;avoir un impact négatif sur l&#8217;image de votre entreprise. Plus important encore, une page de mentions légales obsolètes peut entrainer de sérieux problèmes juridiques ! Paramétrez-vous un rappel pour actualiser et entretenir vos pages CMS.</p>
+<p>Remarque : ce guide est fourni à titre informatif, il ne constitue en aucun cas un conseil juridique.</p>
+<p>Prêts à créer des pages CMS de qualité pour votre boutique en ligne ? Lancez-vous en téléchargeant le <a href="http://www.prestashop.com/fr/telechargement" target="_blank">logiciel e-commerce gratuit de PrestaShop</a> ! Déjà experts en CMS ? Partagez vos astuces dans les commentaires !</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/le-guide-complet-pour-creer-des-pages-cms-sur-votre-boutique-en-ligne/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Les tendances du SEO pour l’ecommerce en 2015</title>
+		<link>http://www.prestashop.com/blog/fr/les-tendances-du-seo-pour-lecommerce-en-2015/</link>
+		<comments>http://www.prestashop.com/blog/fr/les-tendances-du-seo-pour-lecommerce-en-2015/#comments</comments>
+		<pubDate>Fri, 05 Dec 2014 13:20:56 +0000</pubDate>
+		<dc:creator>Gary Le Masson</dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17883</guid>
+		<description><![CDATA[A quoi ressemblera le référencement en 2015 ? L’exercice est devenu un grand classique à la fin de chaque année pour tous les référenceurs, alors complète révolution ou simple évolution ? Voici mes prévisions pour 2015. Le SEO sera (presque) &#8230; <a href="http://www.prestashop.com/blog/fr/les-tendances-du-seo-pour-lecommerce-en-2015/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>A quoi ressemblera le référencement en 2015 ? L’exercice est devenu un grand classique à la fin de chaque année pour tous les référenceurs, alors complète révolution ou simple évolution ? Voici mes prévisions pour 2015.</p>
+<p><img class="aligncenter size-full wp-image-17917" title="Blog-Post-SEO2015" src="http://www.prestashop.com/blog/fr/files/2014/12/Blog-Post-SEO2015.jpg" alt="" width="580" height="305" /></p>
+<p><span id="more-17883"></span></p>
+<h4><span style="color: #009345;">Le SEO sera (presque) le même en 2015</span></h4>
+<p>Panda, Pinguin, Humingbird, Caffeine, pendant que l’équipe Antispam de Google ne cesse de communiquer à propos de la dernière mise à jour de l’un de ses algorithmes, le SEO reste globalement le même travail, avec comme toujours quelques évolutions, mais il faut surtout se dire que l’on ne change pas une recette (un algorithme) qui marche :</p>
+<p><strong>Google Search poursuit à mon sens deux objectifs :</strong></p>
+<ul style="padding: 0 0 0 30px;">
+<li>Satisfaire ses visiteurs avec des résultats de recherche pertinents et de qualité</li>
+<li>Toujours mieux monétiser ces résultats via Adwords.</li>
+</ul>
+<p><strong>L’objectif de Google n’est pas de vous apporter du trafic gratuit</strong>, car générer toujours plus de trafic gratuit est la mission du SEO. Il est à mon sens très important de bien réaliser cette nuance.</p>
+<p><strong>Depuis 1998, la recette de Google fonctionne toujours à peu près de la même manière :</strong></p>
+<ul style="padding: 0 0 0 30px;">
+<li>Une partie pertinence (la correspondance entre votre site avec la requête tapée)</li>
+<li>Une partie popularité (les liens qui pointent vers votre site)</li>
+</ul>
+<p>A la vue des <a href="http://gs.statcounter.com/#all-search_engine-ww-monthly-201310-201410" target="_blank">parts de marché monopolistiques de Google dans le Monde</a>, la stratégie fonctionne et je ne vois pas de raison que Google tente de remettre en cause son algorithme.</p>
+<p>Donc ma prévision pour 2015, c’est la continuité et l’évolution du SEO, <a href="http://moz.com/rand/google-seo-dont-actually-change-much/" target="_blank">Rand Fishkin, fondateur de MOZ</a> est du même avis sur son blog.</p>
+<h4><span style="color: #009345;">Alors, quelles seront ces évolutions SEO ?</span></h4>
+<p>Chez <a href="http://www.prestashop.com" target="_blank">PrestaShop</a>, on s’attache à parler d’ecommerce aux ecommerçants, et le référencement étant un levier de croissance considérable pour les petites boutiques, voici donc mes prévisions SEO pour l’e-commerce :</p>
+<h4><span style="color: #009345;">2015 sera une année mobile</span></h4>
+<p><a href="http://searchengineland.com/matt-cutts-mobile-queries-may-surpass-pc-year-186816" target="_blank">Matt Cutts</a> l’annonçait déjà début 2014, le nombre de requêtes de recherche depuis des terminaux mobiles devait dépasser les PC.</p>
+<p>Parallèlement au Royaume Uni, <a href="https://www.internetretailer.com/2014/09/02/mobile-visitors-overtake-desktop-visitors-rthe-uk" target="_blank">Internet Retailer annonçait en septembre dernier</a> que le trafic Mobile + Tablette sur les sites ecommerce était désormais passé devant celui des PC.</p>
+<p>Ci-dessous vous trouverez l’évolution du trafic mondial par StatCounter comparant les PC, les Smartphones et les Tablettes.</p>
+<p style="text-align: center;"><a href="http://gs.statcounter.com/#desktop+mobile+tablet-comparison-ww-monthly-201311-201410" target="_blank"><img class="aligncenter  wp-image-17887" title="graphe" src="http://www.prestashop.com/blog/fr/files/2014/12/graphe.jpg" alt="" width="614" height="360" /></a></p>
+<p>Parallèlement si vous jouez un peu avec StatCounter et filtrez vos résultats par pays, vous pourrez aussi remarquer que la place du mobile est déjà majoritaire sur différents marchés, je pense notamment à l’<a href="http://gs.statcounter.com/#desktop+mobile+tablet-comparison-IN-monthly-201311-201410" target="_blank">Inde où le mobile est clairement dominant avec près de 70 % de trafic</a>. Quelque soit le ou les pays que vous ciblez, cette tendance se généralise.</p>
+<p>Il faut aussi penser que de plus en plus de personnes <a href="http://www.businessinsider.com/a-majority-uses-mobile-as-second-screen-2013-5" target="_blank">utilisent leur smartphone en regardant la TV</a>.</p>
+<p>La croissance du mobile et des tablettes ne fait plus aucun doute, et pour revenir au SEO, Google qui lui aussi constate la croissance du trafic mobile, souhaite mieux complaire ses utilisateurs avec plus de résultats de recherche compatibles mobiles. Il s’agit là pour Google de favoriser les sites ecommerce proposant une expérience mobile au détriment des sites qui sont restés sur un template 100 % desktop.</p>
+<p>Aux Etats-Unis, Google indique déjà la compatibilité des sites avec le mobile dans ses SERPs (pages de résultats de recherche / Search Engine Result Pages) :</p>
+<div style="height: 445px;">
+<p style="text-align: center; float: left; padding: 0 15px;"><img class="aligncenter  wp-image-17888" title="screen-search" src="http://www.prestashop.com/blog/fr/files/2014/12/screen-search-576x1024.png" alt="" width="250" height="442" /></p>
+<p style="text-align: center; float: left;"><img class="aligncenter  wp-image-17889" title="screen-search2" src="http://www.prestashop.com/blog/fr/files/2014/12/screen-search2-576x1024.png" alt="" width="250" height="442" /></p>
+</div>
+<p>D’après <a href="https://www.stonetemple.com/googles-gary-illyes-discusses-mobile-as-a-ranking-factor/" target="_blank">Gary Illyes</a>, l’obtention de ce petit badge dans les résultats de recherche nécessitera simplement de passer le test du nouvel outil de test mobile mis en ligne par Google Webmaster Tool. Cet outil vous permettra de vérifier si votre site est mobile-friendly et s’il respecte les recommandations de Google en la matière :<br />
+<a href="https://www.google.com/webmasters/tools/mobile-friendly/" target="_blank">Testez votre site sur mobile</a></p>
+<p>Pour aller plus loin encore sur le sujet je vous recommande <a href="https://plus.google.com/u/0/+JohnMueller/posts/WT5YccbhkXi" target="_blank">ce post G+ de John Mueller</a> traitant justement de la question.</p>
+<p><strong>Ma recommandation SEO Mobile pour 2015</strong></p>
+<p>Votre site ecommerce se doit de proposer une expérience mobile. S’il veut poursuivre sa croissance en SEO, deux solutions principales s’offrent à vous : la solution d’un thème responsive design (dont la largeur est dynamique) ou celle d’un site dédié au mobile de type http://m.example.com</p>
+<ul style="padding: 0 0 0 30px;">
+<li><a href="http://addons.prestashop.com/fr/3-themes-prestashop?m=true&amp;responsive=1" target="_blank">Tous les thèmes PrestaShop responsive design</a></li>
+<li><a href="http://addons.prestashop.com/fr/mobile/8936-shopgate.html" target="_blank">La Solution Shopgate pour un site mobile dédié</a></li>
+</ul>
+<p><strong>Ma prévision mobile SEO</strong></p>
+<p>Je prévois que courant 2015, voire en 2016, 100 % des résultats de recherche de Google sur nos smartphones seront mobile-friendly. En d’autres termes <strong>« exit les sites desktop de vos smartphones »</strong>.</p>
+<h4><span style="color: #009345;">Une année sécurisée en HTTPS</span></h4>
+<p>L’autre mouvement de Google en 2014 a été de pousser les sites internet à passer du http au https, il serait même passé <a href="http://searchengineland.com/google-starts-giving-ranking-boost-secure-httpsssl-sites-199446" target="_blank">en tant que critère dans l’algorithme de recherche</a>.</p>
+<p>Ne pensez pas non plus que cette opération vous permettra de rentrer sur la première page de Google ! Mais si ça donne un petit booste, pourquoi pas ?</p>
+<p><strong>Ma recommandation SEO sécurité</strong></p>
+<p>Passez votre boutique en ligne au HTTPS en 2015</p>
+<h4><span style="color: #009345;">Retournons aux fondamentaux</span></h4>
+<p>Voilà pourquoi je vous parle d’évolution : même s’il évolue constamment, le SEO sur Google reste toujours la même chose :</p>
+<p><span style="font-style: italic; font-size: 18px;">Pour être le premier, vous devez avoir le meilleur contenu avec les meilleurs liens.</span></p>
+<p><strong>Commencez par trouver vos mots clés</strong></p>
+<p><a href="http://www.prestashop.com/blog/fr/comment-trouver-les-bons-mots-cles-pour-le-seo-de-votre-site-ecommerce-partie-12/" target="_blank">Trouvez les bons mots clés sur votre boutique en ligne</a></p>
+<h4><span style="color: #009345;">Les bonnes résolutions pour un contenu SEO-friendly en 2015</span></h4>
+<p><a href="http://www.prestashop.com/blog/fr/structurer-votre-boutique-en-ligne-avec-vos-mots-cles-seo-partie-22/" target="_blank">Structurez correctement votre site ecommerce en pensant au SEO </a></p>
+<p><a href="http://www.prestashop.com/blog/fr/content-marketing/" target="_blank">Puis pensez à votre stratégie de Content Marketing</a></p>
+<p>Pensez également à bien renseigner vos Titres et Descriptions sur les pages catégories et sur vos fiches produits, dans un objectif de référencement et de conversion.</p>
+<h4><span style="color: #009345;">Ma recommandation NetLinking en 2015</span></h4>
+<p>50 % d’une bonne stratégie de référencement concerne son linking. Ne pensez pas qu’il s’agisse simplement d’optimiser les tags sur votre boutique ou aussi de poster des articles sur votre blog. Pour gagner en référencement en 2015, il vous faudra toujours des liens, mais prenez garde à leur qualité.</p>
+<p><strong>Ce que fait Google contre les sites ecommerce qui ont des mauvais liens</strong></p>
+<p style="text-align: center;"><img class="size-full wp-image-17890 aligncenter" title="matt-cutts-vs-netlinking" src="http://www.prestashop.com/blog/fr/files/2014/12/matt-cutts-vs-netlinking.gif" alt="" width="360" height="240" /></p>
+<p>Google est entré en guerre directe avec les plateformes de vente de liens et l’interdit même dans ses guidelines pour les Webmasters. D’un point de vue légal, il faut se souvenir que même si Google n’est pas la loi, Google règne littéralement sur Internet et je vous recommande de prendre énormément de précautions si vous ne voulez pas vous faire attraper par le <a href="http://en.wikipedia.org/wiki/Google_Penguin" target="_blank">PINGUIN</a>.</p>
+<p><strong>Voici en attendant quelques conseils de Netlinking pour 2015</strong></p>
+<ul style="padding: 0 0 0 30px;">
+<li>Ne faites pas de Netlinking vous-même si vous ne savez pas ce que vous faites</li>
+<li>Faites appel à un référenceur professionnel ou une agence</li>
+<li>Ne travaillez plus/pas avec les plateformes de vente de liens</li>
+<li>N’optimisez plus les mots-clés dans les ancres de liens tels que mon mot clé</li>
+<li>Utilisez des ancres de liens toujours différentes ou contenant par exemple le nom de votre site</li>
+<li>Pensez à la concordance avec les sites qui pointent vers vous et votre boutique en ligne</li>
+<li>Si vous faites encore des échanges de liens, arrêtez !</li>
+<li>Ne pensez pas que le linking se résume à des liens dans les commentaires de blog, les posts de forum ou encore les inscriptions dans les annuaires</li>
+<li>Pensez qu’un bon lien est un lien qui vous apportera du trafic</li>
+<li>Ne faites pas des liens toujours vers la même page de votre site</li>
+</ul>
+<p>Enfin, ne pensez pas que pour avoir des liens, il faut payer. Pensez aussi que vos fiches produits, et même le contenu de votre blog peut vous apporter des liens, juste grâce à leur qualité.</p>
+<h2><span style="color: #0000fe;">Ma veille SEO en 2015</span></h2>
+<p>Tous les référenceurs vous le diront, si vous voulez améliorer vos compétences en SEO il faut tous les jours effectuer votre veille sur des blogs spécialisés. Voici ci-dessous quelques sites que je vous invite à suivre en 2015 :</p>
+<p><strong>Les Googlers à suivre en 2015</strong></p>
+<p style="padding-left: 30px;"><a href="https://www.google.com/+JohnMueller" target="_blank">https://www.google.com/+JohnMueller</a><br />
+<a href="https://www.google.com/+GaryIllyes" target="_blank">https://www.google.com/+GaryIllyes</a><br />
+<a href="https://www.google.com/+PierreFar" target="_blank">https://www.google.com/+PierreFar</a><br />
+<a href="https://www.google.com/+MaileOhye" target="_blank">https://www.google.com/+MaileOhye</a><br />
+<a href="https://www.google.com/+GoogleWebmasters" target="_blank">https://www.google.com/+GoogleWebmasters</a><br />
+<a href="https://www.google.com/+MattCutts" target="_blank">https://www.google.com/+MattCutts</a> (au cas où il reviendrait chez Google)</p>
+<p><strong>Ma liste préférée de blog SEO Français :</strong></p>
+<p style="padding-left: 30px;"><a href="http://www.miss-seo-girl.com/" target="_blank">http://www.miss-seo-girl.com/</a><br />
+<a href="http://www.peyronnet.eu/" target="_blank">http://www.peyronnet.eu/</a><br />
+<a href="http://blog.axe-net.fr/" target="_blank">http://blog.axe-net.fr/</a><br />
+<a href="http://www.visibilite-referencement.fr/" target="_blank">http://www.visibilite-referencement.fr/</a><br />
+<a href="http://www.nicolasauge.com/" target="_blank">http://www.nicolasauge.com/</a><br />
+<a href="http://lemusclereferencement.com/" target="_blank">http://lemusclereferencement.com/</a><br />
+<a href="http://www.renaud-joly.fr/" target="_blank">http://www.renaud-joly.fr/</a><br />
+<a href="http://www.mar1e.fr/" target="_blank">http://www.mar1e.fr/</a><br />
+<a href="http://www.sebastien-billard.fr/seo/" target="_blank">http://www.sebastien-billard.fr/seo/</a></p>
+<p><strong>Les 2 incontournables </strong></p>
+<p style="padding-left: 30px;"><a href="http://www.abondance.com/" target="_blank">http://www.abondance.com/</a><br />
+<a href="http://www.webrankinfo.com/" target="_blank">http://www.webrankinfo.com/</a></p>
+<p><strong>Une communauté sur G+ où poser vos questions SEO en français</strong></p>
+<p style="padding-left: 30px;"><a href="https://plus.google.com/u/0/communities/102813641560589817522" target="_blank">Le Cercle SEO</a> (J’y suis tous les jours alors n’hésitez pas)</p>
+<p><strong>Liste anglaise de blogs SEO à suivre</strong></p>
+<p style="padding-left: 30px;"><a href="http://moz.com/blog" target="_blank">http://moz.com/blog</a><br />
+<a href="http://moz.com/rand/" target="_blank">http://moz.com/rand/</a><br />
+<a href="http://searchengineland.com/" target="_blank">http://searchengineland.com/</a><br />
+<a href="http://searchenginewatch.com/" target="_blank">http://searchenginewatch.com/</a><br />
+<a href="http://www.seobook.com/blog" target="_blank">http://www.seobook.com/blog</a><br />
+<a href="http://blog.searchmetrics.com/" target="_blank">http://blog.searchmetrics.com/</a><br />
+<a href="http://www.stateofdigital.com/" target="_blank">http://www.stateofdigital.com/</a><br />
+<a href="http://cognitiveseo.com/" target="_blank">http://cognitiveseo.com/</a><br />
+<a href="http://googlewebmastercentral.blogspot.com" target="_blank">http://googlewebmastercentral.blogspot.com</a></p>
+<p><strong>Des sites anglais plus généralistes à propos du WebMarketing et du Content Marketing</strong></p>
+<p style="padding-left: 30px;"><a href="http://www.convinceandconvert.com/" target="_blank">http://www.convinceandconvert.com/</a><br />
+<a href="http://www.internetmarketingninjas.com/" target="_blank">http://www.internetmarketingninjas.com/</a><br />
+<a href="http://sethgodin.typepad.com/" target="_blank">http://sethgodin.typepad.com/</a><br />
+<a href="http://sherpablog.marketingsherpa.com/" target="_blank">http://sherpablog.marketingsherpa.com/</a><br />
+<a href="http://chiefmartec.com/" target="_blank">http://chiefmartec.com/</a><br />
+<a href="http://chrisbrogan.com/" target="_blank">http://chrisbrogan.com/</a><br />
+<a href="http://www.convinceandconvert.com/" target="_blank">http://www.convinceandconvert.com/</a><br />
+<a href="http://heidicohen.com/" target="_blank">http://heidicohen.com/</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/les-tendances-du-seo-pour-lecommerce-en-2015/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Du point de vente physique au clic : 5 raisons d&#8217;ouvrir une boutique en ligne aujourd&#8217;hui</title>
+		<link>http://www.prestashop.com/blog/fr/du-point-de-vente-physique-au-clic-5-raisons-douvrir-une-boutique-en-ligne-aujourdhui/</link>
+		<comments>http://www.prestashop.com/blog/fr/du-point-de-vente-physique-au-clic-5-raisons-douvrir-une-boutique-en-ligne-aujourdhui/#comments</comments>
+		<pubDate>Tue, 02 Dec 2014 17:14:19 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17871</guid>
+		<description><![CDATA[Propriétaire d&#8217;une petite entreprise avec un magasin local, vous souhaitez lancer dans le commerce en ligne ? Vous vous demandez si la vente en ligne n&#8217;est qu&#8217;une mode ou si elle représente le futur du commerce ? En tant que &#8230; <a href="http://www.prestashop.com/blog/fr/du-point-de-vente-physique-au-clic-5-raisons-douvrir-une-boutique-en-ligne-aujourdhui/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Propriétaire d&#8217;une petite entreprise avec un magasin local, vous souhaitez lancer dans le commerce en ligne ? Vous vous demandez si la vente en ligne n&#8217;est qu&#8217;une mode ou si elle représente le futur du commerce ? En tant que fournisseurs de logiciel e-commerce, nous vous conseillons (évidemment) d&#8217;ouvrir une boutique en ligne. Mais il ne suffit pas de le dire.</p>
+<p>Aujourd&#8217;hui, nous vous expliquons pourquoi, dans notre article intitulé « Du point de vente physique au clic : 5 raisons d&#8217;ouvrir une boutique en ligne aujourd&#8217;hui ». Vous pourrez ainsi connaître les limites d&#8217;un point de vente traditionnel et découvrir comment une boutique en ligne peut compléter un magasin, pour exploiter au maximum leurs avantages respectifs.</p>
+<p><img class="aligncenter size-full wp-image-17876" title="BRICK-AND-MORTAR .small" src="http://www.prestashop.com/blog/fr/files/2014/12/BRICK-AND-MORTAR-.small_.jpg" alt="" width="580" height="305" /></p>
+<p><span id="more-17871"></span></p>
+<h4><span style="color: #ae2b6d;">1. Votre magasin n&#8217;est pas ouvert 24h/24, 7j/7.</span></h4>
+<p>Quels sont les horaires d&#8217;ouverture de votre magasin ? 8:00 &#8211; 19:00 ? Et si des clients veulent faire des achats dans votre boutique bien après sa fermeture ? Fermer votre boutique revient à les chasser.</p>
+<p>Evidemment, votre magasin peut rester ouvert plus tard. Néanmoins, la création d&#8217;une boutique en ligne est une solution beaucoup plus économique, et ce, d&#8217;autant plus avec le logiciel e-commerce gratuit et libre de PrestaShop. Le principal atout des boutiques en ligne ? Elles restent ouvertes 24h/24, 7j/7. Ainsi, en créant une boutique en ligne, vous pourrez proposer vos produits en permanence.</p>
+<h4><span style="color: #ae2b6d;">2. Certains clients ne peuvent pas se rendre jusqu&#8217;à votre magasin.</span></h4>
+<p>De nombreux propriétaires de magasin connaissent bien cette expression : « emplacement, emplacement, emplacement ». En effet, lorsque vous faites de la vente au détail, le succès de votre commerce est principalement dû à son emplacement. Si des clients ont du mal à se rendre dans votre boutique, vous pouvez leur dire adieu.</p>
+<p>La création d&#8217;une boutique en ligne permet de proposer vos produits à tout votre pays, voire au monde entier ! L&#8217;emplacement de votre magasin ne pose soudainement plus aucun problème. Votre clientèle ne se limite plus aux habitants du quartier.</p>
+<h4><span style="color: #ae2b6d;">3. La place dans les rayons est limitée.</span></h4>
+<p>L&#8217;espace dont vous disposez dans vos rayons est tout aussi important que l&#8217;emplacement de votre magasin. Le commerçant que vous êtes sait très bien que les produits doivent être disposés et éclairés correctement dans votre « showroom ». Cela limite le nombre de produits que vous pouvez présenter en même temps.</p>
+<p>Sur votre boutique en ligne, vous pouvez proposer une infinité de produits. Il vous faudra alors concevoir de belles pages produit, offrant une navigation intuitive. Commencez par choisir <a href="http://www.prestashop.com/blog/fr/guide-do-it-yourself-de-le-commerce-pour-de-parfaites-photos-de-produit/" target="_blank">de superbes images de produits</a> pour ensuite les agrémenter de <a href="http://www.prestashop.com/blog/fr/augmentez-vos-ventes-en-ligne-8-astuces-pour-des-descriptions-produits-efficaces/" target="_blank">descriptions attrayantes</a>. Aidez ensuite vos clients à parcourir votre boutique en toute facilité avec <a href="http://www.prestashop.com/blog/fr/structurer-votre-boutique-en-ligne-avec-vos-mots-cles-seo-partie-22/" target="_blank">une structure site Web basée sur les mots-clés</a>. Grâce à ces 3 éléments en place, vous êtes prêt à élargir votre sélection au-delà des rayons de votre boutique physique.</p>
+<h4><span style="color: #ae2b6d;">4. L&#8217;utilisation d&#8217;un unique canal de vente limite les bénéfices.</span></h4>
+<p>La distribution via une boutique de vente au détail n&#8217;est que l&#8217;un des nombreux canaux à votre disposition. Ne choisir qu&#8217;un seul canal restreint votre capacité à accroître vos bénéfices, car cela limite votre clientèle. En résumé, limiter le nombre de vos clients limite également le volume de vos ventes.</p>
+<p>Développez vos activités et boostez vos ventes grâce à l&#8217;utilisation d&#8217;un nouveau canal de vente : votre boutique en ligne. Vous pourrez alors cibler une clientèle plus large et vendre un volume plus important de produits. Vous serez ainsi en position de négocier de meilleurs prix d&#8217;achat auprès de vos fournisseurs et d&#8217;augmenter la marge bénéficiaire de vos activités.</p>
+<h4><span style="color: #ae2b6d;">5. L&#8217;autopromotion n&#8217;inspire pas confiance.</span></h4>
+<p>Les produits que vous vendez ont beau être d&#8217;excellente qualité, les clients se méfieront toujours des avis positifs que vous rédigez vous-même, généralement peu subtils. Après tout, aucun marchand ne dira du mal de ses propres produits !</p>
+<p>C&#8217;est pourquoi une boutique en ligne peut promouvoir votre boutique physique. L&#8217;un des plus gros avantages d&#8217;une boutique en ligne est la possibilité de tirer parti de la preuve sociale. Les avis et témoignages des clients donnent de la crédibilité à vos produits : cette publicité vient de personnes pour lesquelles la promotion du produit ne présente pas d&#8217;intérêt.</p>
+<h4><span style="color: #ae2b6d;">Ce qu&#8217;il faut retenir</span></h4>
+<p>Si vous possédez un magasin physique, votre boutique en ligne est simplement une extension de ce point de vente. Le commerce en ligne permet d&#8217;élargir la portée de votre magasin, de proposer davantage de produits et d&#8217;être ouvert en permanence. Ainsi, le nombre de clients potentiels augmente, ce qui se peut se traduire par un accroissement des ventes.</p>
+<p>Convaincu des avantages d&#8217;une boutique en ligne pour compléter votre magasin physique ? Lancez-vous dès maintenant dans <a href="http://www.prestashop.com/fr/telechargement" target="_blank">la vente en ligne grâce au logiciel e-commerce Prestashop</a>. Vous possédez déjà un point de vente physique et une boutique en ligne ? Expliquez-nous votre principale motivation dans les commentaires ci-dessous.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/du-point-de-vente-physique-au-clic-5-raisons-douvrir-une-boutique-en-ligne-aujourdhui/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>6 tests A/B pour optimiser votre boutique en ligne</title>
+		<link>http://www.prestashop.com/blog/fr/6-tests-ab-pour-optimiser-votre-boutique-en-ligne/</link>
+		<comments>http://www.prestashop.com/blog/fr/6-tests-ab-pour-optimiser-votre-boutique-en-ligne/#comments</comments>
+		<pubDate>Mon, 01 Dec 2014 13:47:18 +0000</pubDate>
+		<dc:creator>Julie Liu</dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17861</guid>
+		<description><![CDATA[Les e-commerçants sont sans cesse à la recherche de nouvelles stratégies pour optimiser leur boutique en ligne. Pour cela, de nombreux experts étudient et testent différents éléments de conception afin de maximiser l&#8217;efficacité des sites Web. Au fur et à &#8230; <a href="http://www.prestashop.com/blog/fr/6-tests-ab-pour-optimiser-votre-boutique-en-ligne/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p>Les e-commerçants sont sans cesse à la recherche de nouvelles stratégies pour optimiser leur boutique en ligne. Pour cela, de nombreux experts étudient et testent différents éléments de conception afin de maximiser l&#8217;efficacité des sites Web. Au fur et à mesure de l&#8217;avancée de leurs recherches sur les achats en ligne, ces spécialistes partagent leurs résultats sous forme d&#8217;infographies, d&#8217;articles de blog et plus encore.</p>
+<p>Sur un site Web, les éléments qu&#8217;il est possible de tester sont très nombreux : par où commencer ? Essayons d’y voir plus clair et de nous pencher sur 6 tests A/B permettant d&#8217;optimiser votre boutique en ligne.</p>
+<p><img class="aligncenter size-full wp-image-17862" title="AB-test" src="http://www.prestashop.com/blog/fr/files/2014/12/AB-test.png" alt="AB testing" width="580" height="305" /><br />
+<span id="more-17861"></span></p>
+<p>Grâce à ce type de test, les e-commerçants sont en mesure d&#8217;afficher une des deux versions de leur site Web. En évaluant l&#8217;efficacité de chaque page, ils peuvent déterminer quelle variante booste le taux de conversion client. Cependant, avant de vous plonger dans ces tests, vous devez connaître les performances actuelles de votre boutique. Collectez ainsi des valeurs de base pour toutes les statistiques que vous souhaitez suivre avant de mener des tests A/B sur ces éléments.</p>
+<h4 style="color: #0c59a8;">1. Conception de la page d&#8217;accueil</h4>
+<p><strong style="color: #214975;">Titres</strong> &#8211; Si votre site Web comporte actuellement des titres, essayez de les enlever et testez également différents textes et différentes tailles.<br />
+<strong style="color: #214975;">Diaporama ou carrousel</strong> &#8211; Le carrousel de votre page d&#8217;accueil génère-t-il des conversions ou est-ce simplement une distraction ? VWO, une société spécialiste des tests A/B, considère que les <a href="https://vwo.com/blog/image-slider-alternatives/" target="_blank">diaporamas d&#8217;images ont perdu leur efficacité</a>. Elle suggère une alternative : utiliser une image statique, supprimer le bloc ou simplement limiter le nombre d&#8217;images à deux.</p>
+<h4 style="color: #0c59a8;">2. <a style="color: #0c59a8; text-decoration: underline;" href="http://www.prestashop.com/blog/fr/boutiques-en-ligne-15-exemples-de-boutons-cta-pour-booster-les-conversions/" target="_blank">Incitation à l&#8217;action</a> ou CTA</h4>
+<p><strong style="color: #214975;">Couleur</strong> &#8211; Des études démontrent que nous <a href="http://www.responsecapture.com/campaign-optimization/what-message-is-your-call-to-action-sending/" target="_blank">associons naturellement certaines couleurs à des idées ou des sentiments</a>. Découvrez le sentiment que suscite votre CTA et testez différentes couleurs pour comparer leur efficacité.</p>
+<p><strong style="color: #214975;">Taille</strong> &#8211; Il est évident que votre CTA doit être clairement visible. Cependant, les CTA trop voyants peuvent détourner l&#8217;attention du reste de la page et avoir ainsi un impact négatif. Effectuez un test A/B pour découvrir la solution adaptée à votre site Web.</p>
+<p><strong style="color: #214975;">Texte</strong> &#8211; Le texte de votre site Web doit être percutant et cela est d&#8217;autant plus vrai pour les boutons CTA. Lors de la rédaction du texte, gardez en tête qu&#8217;une formulation efficace pour un site à bas prix ne permettra sans doute pas de convertir des clients pour une boutique de luxe. Le ton et le style doivent être adaptés au profil client ciblé.</p>
+<h4 style="color: #0c59a8;">3. Paiement : une ou cinq pages</h4>
+<p>Les experts sont divisés concernant l&#8217;efficacité d&#8217;un processus de paiement comptant 5 pages par rapport à une seule page regroupant les différentes étapes du paiement. Les adeptes de la formule en 5 pages pensent qu&#8217;une telle approche répond aux attentes des clients. A l&#8217;inverse, les partisans d&#8217;une page de paiement unique considèrent qu&#8217;un processus de paiement plus court limite les abandons de panier.</p>
+<h4 style="color: #0c59a8;">4. <a style="color: #0c59a8; text-decoration: underline;" href="http://www.prestashop.com/blog/fr/guide-do-it-yourself-de-le-commerce-pour-de-parfaites-photos-de-produit/" target="_blank">Images de produit</a></h4>
+<p>Les images haute résolution présentant les produits sont idéales pour les pages produits, mais sont-elles les plus efficaces ? Testez chacune des différentes stratégies ci-dessous, pour voir leur impact sur les conversions.</p>
+<p><strong style="color: #214975;">Arrière-plan</strong> – Bien que le blanc soit la couleur la plus utilisée, essayez des tons neutres assortis à votre produit. Une image chaleureuse peut également séduire les clients.</p>
+<p><strong style="color: #214975;">Vues</strong> – Essayez de changer les angles de prise de vue de vos images produits. Avez-vous testé une vue de dessus ou une vue latérale ?</p>
+<p><strong style="color: #214975;">Mannequin</strong> – La présentation d&#8217;un produit sur un mannequin peut booster les ventes, car les clients visualisent ainsi mieux le rendu sur une personne. Cependant, les mannequins peuvent également détourner l&#8217;attention des clients et réduire les possibilités de vente. Effectuez un test A/B pour découvrir ce que vos clients préfèrent.</p>
+<h4 style="color: #0c59a8;">5. Réseaux sociaux</h4>
+<p>L&#8217;affichage du nombre de followers sur les réseaux sociaux contribue-t-il à votre image de marque ? Pour certaines boutiques, l&#8217;affichage d&#8217;éléments de confiance (logos de solutions de paiement, liens vers les réseaux sociaux et badges de sécurité) peut être avantageux. D&#8217;autres en revanche ont vu leurs ventes augmenter suite à la suppression de ces éléments. Découvrez la solution la plus efficace pour vous.</p>
+<h4 style="color: #0c59a8;">6. Tarification et promotions</h4>
+<p>Dans notre article de blog « <a href="http://www.prestashop.com/blog/fr/e-commerce-psychologie-des-prix-et-reductions/" target="_blank">Phycology of Pricing and Discounts for Ecommerce</a> », nous proposons 4 différentes idées de tarification et de promotions de produits à tester. Toutefois, il convient d&#8217;être prudent avec les tests A/B pour la tarification et les promotions : les clients peuvent être amenés à penser que certains prix ne sont pas équitables. Ainsi, nous vous recommandons de collaborer avec un professionnel pour effectuer des tests dans ce domaine.</p>
+<h4 style="color: #0c59a8;">A vous de jouer.</h4>
+<p>Quel que soit le test A/B que vous décidez d&#8217;exécuter en premier, veillez à tester un élément à la fois. Par exemple, pour tester un bouton CTA, modifiez uniquement la couleur ou le texte (et non les deux). Si vous changez plusieurs caractéristiques en même temps, vos données seront difficiles à interpréter.</p>
+<hr align="left" size="2" width="20%" />
+<p>Parmi nos exemples, quels tests A/B envisagez-vous d&#8217;effectuer ? N&#8217;hésitez pas à répondre dans les commentaires ci-dessous. Si vous avez déjà effectué quelques tests, faites-nous part de vos découvertes. Vous n&#8217;avez pas encore de boutique en ligne ? Lancez-vous en <a href="http://www.prestashop.com/fr/telechargement" target="_blank">téléchargeant le logiciel e-commerce de PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/6-tests-ab-pour-optimiser-votre-boutique-en-ligne/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>La sélection de l’équipe pour le mois de novembre : 2 fonctionnalités pour booster votre conversion</title>
+		<link>http://www.prestashop.com/blog/fr/la-selection-de-lequipe-pour-le-mois-de-novembre/</link>
+		<comments>http://www.prestashop.com/blog/fr/la-selection-de-lequipe-pour-le-mois-de-novembre/#comments</comments>
+		<pubDate>Tue, 25 Nov 2014 16:12:08 +0000</pubDate>
+		<dc:creator>Samyha Aggoune</dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17838</guid>
+		<description><![CDATA[Marchands, les fêtes de fin d&#8217;année approchent à grands pas, et il est désormais temps de finaliser les derniers préparatifs sur votre site e-commerce. Votre boutique est-elle prête à accueillir de nouveaux clients en quête de cadeaux et autres accessoires &#8230; <a href="http://www.prestashop.com/blog/fr/la-selection-de-lequipe-pour-le-mois-de-novembre/" rel="nofollow" class="more-link">Suivant <span class="meta-nav">&#8594;</span></a>]]></description>
+			<content:encoded><![CDATA[<p><img class="alignright size-full wp-image-17672" style="float: right;" title="staff-picks-1" src="http://www.prestashop.com/blog/fr/files/2014/10/staff-picks-17.png" alt="" width="200" height="155" /><br />
+Marchands, les fêtes de fin d&#8217;année approchent à grands pas, et il est désormais temps de finaliser les derniers préparatifs sur votre site e-commerce.</p>
+<p>Votre boutique est-elle prête à accueillir de nouveaux clients en quête de cadeaux et autres accessoires de festivités ? Pour le savoir, nous vous avons sélectionné deux fonctionnalités pour booster encore plus votre taux de conversion en ces périodes de fêtes !<span id="more-17838"></span></p>
+<p><strong>Voici les sélections du mois :</strong></p>
+<ul>
+<li><span style="color: #ed2279;">PayPlug: <span style="color: #000000;">Offrez à vos clients une expérience utilisateur de qualité et transformez le processus de paiement en moment agréable.</span></span></li>
+<li><span style="color: #ed2279;">Affinity Items: <span style="color: #000000;">Proposez des recommandations sur-mesure à vos clients selon leur parcours d&#8217;achat, et augmentez considérablement votre taux de conversion. </span></span></li>
+</ul>
+<h2 style="color: #00804f;">1. PayPlug</h2>
+<h4><span style="color: #68737f;">Gagnez la confiance de vos clients et proposez un module de paiement en ligne simple et sécurisé</span></h4>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-17800" title="payplug" src="http://www.prestashop.com/blog/fr/files/2014/11/payplug.jpg" alt="PayPlug" width="470" height="400" /></p>
+<p><span style="color: #ed2279; font-weight: bold;">À quoi sert cette fonctionnalité ?</span> Avec PayPlug, acceptez les paiements en ligne de vos clients sur votre site e-commerce sans engagement ni contrat VAD. Bénéficiez d’une tarification simple et avantageuse : plus besoin de montants minimum de paiement, pas de frais fixes et récurrents ni d’abonnements. La commission est quant à elle comprise entre 1.5% et 2.5% par transaction selon son volume.</p>
+<p><span style="color: #ed2279; font-weight: bold;">Pourquoi l’avons-nous sélectionnée ?</span> Très simple d’utilisation, PayPlug ne requiert aucune connaissance technique et s’installe très facilement. Côté marchand, il vous faut créer un compte sur le site web de <a href="https://www.payplug.fr/inscription?origin=PrestashopAddons%2520" target="_blank">PayPlug</a> et réutiliser les identifiants choisis lors de l’installation du module. Le module est entièrement sécurisé et intègre les mêmes systèmes de sécurité que les leaders du marché. Les transactions et les coordonnées de vos clients sont donc totalement protégées.</p>
+<p><span style="color: #ed2279; font-weight: bold;">Comment vous aide-t-elle à vendre plus ?</span> Une fois configuré, PayPlug offre à vos clients une expérience utilisateur simple, efficace et sans tracas : ils n’ont plus qu’à renseigner leurs informations bancaires, à valider et la transaction est effectuée ! De plus, il vous est également possible de personnaliser le formulaire de paiement et de vous démarquer ainsi de vos concurrents.</p>
+<p style="text-align: center;"><a href="http://addons.prestashop.com/fr/modules-paiement-prestashop/8795-payplug-paiement-en-ligne-simple-et-securise-.html" target="_blank">Téléchargez gratuitement PayPlug pour votre boutique !</a></p>
+<p style="text-align: center;">Retrouvez-la également dans votre Back-Office PrestaShop &gt; Modules &gt; Paiement</p>
+<h2 style="color: #00804f;">2. Affinity Items</h2>
+<h4><span style="color: #68737f;">Augmentez considérablement votre taux de conversion grâce aux recommandations de produits personnalisées</span></h4>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-17801" title="affinity-items" src="http://www.prestashop.com/blog/fr/files/2014/11/affinity-items.jpg" alt="affinity items" width="470" height="400" /></p>
+<p><span style="color: #ed2279; font-weight: bold;">À quoi sert cette fonctionnalité ?</span> Suivez de plus près les goûts de vos clients en leur proposant des recommandations personnalisées de produits par page selon leurs besoins. Son point fort ? Elle analyse le comportement de vos visiteurs sur votre site pour leur proposer un choix de produits individuels et les guider dans leur navigation.</p>
+<p>Pourquoi l’avons-nous sélectionnée ? Accédez à un outil marketing de pointe et pile dans les tendances digitales du moment avec Affinity Items. Configurable facilement, vous pouvez :</p>
+<ul>
+<li>Paramétrer vous-même le rôle des recommandations (cross-selling ou up-selling),</li>
+<li>Sélectionner le périmètre produit des zones de recommandations (ventes flash, promotions, nouveautés, catégories spécifiques)</li>
+<li>Intégrer le module de façon subtile sur votre site,</li>
+<li>Avoir un contrôle total sur l’activation des zones.</li>
+</ul>
+<p><span style="color: #ed2279; font-weight: bold;">Comment vous aide-t-elle à vendre plus ?</span> Véritable assistant personnel, Affinity Items vous permet de développer votre satisfaction client et d’accroître vos ventes. Il vous permet de comprendre de façon plus précise les besoins et les attentes de vos visiteurs, mais également de suggérer des recommandations uniques par visiteur, et ce, dès la première visite !</p>
+<p style="text-align: center;"><a href="http://addons.prestashop.com/fr/ventes-croisees-cross-selling/17491-affinityitems.html" target="_blank">Obtenez gratuitement le module Affinity Items</a></p>
+<p style="text-align: center;">Vous pouvez également le retrouver dans votre Back-Office PrestaShop &gt; Modules &gt; Publicité et Marketing</p>
+<hr align="left" size="2" width="20%" />
+<p>Une de ces deux fonctionnalités vous fait de l’œil ? Dites-nous tout en commentaire !<br />
+Rendez-vous le mois prochain pour découvrir notre sélection du mois de décembre.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.prestashop.com/blog/fr/la-selection-de-lequipe-pour-le-mois-de-novembre/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Minified using disk: basic
+Page Caching using disk: enhanced
+
+Served from: www.prestashop.com @ 2015-01-02 23:54:10 -->

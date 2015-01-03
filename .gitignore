@@ -4,4 +4,8 @@ cache/
 install/
 install.old/
 modules/gamification/
+<<<<<<< HEAD
 .sass-cache/*
+=======
+.sass-cache/*
+>>>>>>> master
