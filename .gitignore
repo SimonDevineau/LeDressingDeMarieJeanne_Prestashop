@@ -4,4 +4,7 @@ cache/
 install/
 install.old/
 modules/gamification/
-.sass-cache/*
+.sass-cache/
+img/tmp/
+
+config/settings.inc.php

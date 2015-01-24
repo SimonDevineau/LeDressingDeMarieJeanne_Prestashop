@@ -4,9 +4,6 @@ global $_LANGPDF;
 $_LANGPDF = array();
 
 $_LANGPDF['PDF065ab3a28ca4f16f55f103adc7d0226f'] = 'Livraison';
-$_LANGPDF['PDF6c2fbe34c186a6b5725d212ad8cd2432'] = 'Facture';
-$_LANGPDF['PDF88fd044d00c4ad47557c8bd9bf74e585'] = 'Retour de commande %s';
-$_LANGPDF['PDF3090a6a5bd090ab7026fd213f6fb30db'] = 'Bon de commande n°';
 $_LANGPDF['PDFf771e4a4df40bf061607fdb8e3f140dc'] = 'Bon de commande fournisseur';
 $_LANGPDF['PDF3a80d6ec5285dd5d3930db30d04e2b9e'] = 'RE : Remises exclues';
 $_LANGPDF['PDFa58b1c9575ab07c5be819243c96d9c0e'] = 'RI : Remises inclues';
@@ -49,7 +46,7 @@ $_LANGPDF['PDF8fe77c2601e54f1aaef28cfde997bbad'] = 'Taux de taxe';
 $_LANGPDF['PDF22caf639b05c0fa192e81d58c553c89a'] = 'Total HT';
 $_LANGPDF['PDF068f80c7519d0528fb08e82137a72131'] = 'Produits';
 $_LANGPDF['PDFea9cf7e47ff33b2be14e6dd07cbcefc6'] = 'Livraison';
-$_LANGPDF['PDFe92cfa244b5eb9025d07522080468445'] = 'Écotaxe';
+$_LANGPDF['PDFe92cfa244b5eb9025d07522080468445'] = 'Éco-participation';
 $_LANGPDF['PDF29103375229a5c363403ec4afb5c3e8f'] = '(TTC)';
 $_LANGPDF['PDF88be9ea838e21273267409d76af3b284'] = 'Nous avons enregistré votre demande de retour.';
 $_LANGPDF['PDFdd0b8feb4eb6c389c284518f5683017c'] = 'Nous vous rappelons que votre colis doit nous être retourné dans les';
