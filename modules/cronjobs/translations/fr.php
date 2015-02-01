@@ -7,7 +7,7 @@ $_MODULE['<{cronjobs}prestashop>cronjobsforms_c9cc8cce247e49bae79f15173ce97354']
 $_MODULE['<{cronjobs}prestashop>cronjobsforms_b5a7adde1af5c87d7fd797b6245c2a39'] = 'Description';
 $_MODULE['<{cronjobs}prestashop>cronjobsforms_70d4968bea9a6e76c0333904b9d385e4'] = 'Mettre à jour mes devises';
 $_MODULE['<{cronjobs}prestashop>cronjobsforms_0eff773cf33456a033e913f6ed18045c'] = 'Lien cible';
-$_MODULE['<{cronjobs}prestashop>cronjobsforms_07045abc579615634804f42bc0b2b4bb'] = 'Entrez une description de la tâche.';
+$_MODULE['<{cronjobs}prestashop>cronjobsforms_07045abc579615634804f42bc0b2b4bb'] = 'Entrez une description pour cette tâche.';
 $_MODULE['<{cronjobs}prestashop>cronjobsforms_43773e69610c99be6c15daa4a2036443'] = 'Définissez le lien de votre tâche cron.';
 $_MODULE['<{cronjobs}prestashop>cronjobsforms_3a21e2309e8e6aa3759e466154508f2c'] = 'N\'oubliez pas d\'utiliser une URL absolue pour qu\'il soit valide ! Le lien doit également être sur le même domaine que la boutique.';
 $_MODULE['<{cronjobs}prestashop>cronjobsforms_7cf395303ce3665a9834721d4b748e4b'] = 'Fréquence';
@@ -16,13 +16,13 @@ $_MODULE['<{cronjobs}prestashop>cronjobsforms_f528bd8e57a7d662473bcc6e685e117b']
 $_MODULE['<{cronjobs}prestashop>cronjobsforms_f069c9d4732b0b59d44e81eb8aa8a500'] = 'Pendant quel mois cette tâche doit-elle être exécutée ?';
 $_MODULE['<{cronjobs}prestashop>cronjobsforms_07f0edf63c994360b5e4440e793c86a1'] = 'Quel jour de la semaine cette tâche doit-elle être exécutée ?';
 $_MODULE['<{cronjobs}prestashop>cronjobsforms_f4f70727dc34561dfde1a3c529b6205c'] = 'Paramètres';
-$_MODULE['<{cronjobs}prestashop>cronjobsforms_b3419e63398ccc41c062f36631bebd9a'] = 'Mode';
+$_MODULE['<{cronjobs}prestashop>cronjobsforms_b3419e63398ccc41c062f36631bebd9a'] = 'Mode cron';
 $_MODULE['<{cronjobs}prestashop>cronjobsforms_972e73b7a882d0802a4e3a16946a2f94'] = 'Basique';
 $_MODULE['<{cronjobs}prestashop>cronjobsforms_eaf1dc6d93a18adb2619233d8e99c197'] = 'Utilisez le webservice PrestaShop pour exécuter vos tâches cron.';
 $_MODULE['<{cronjobs}prestashop>cronjobsforms_9b6545e4cea9b4ad4979d41bb9170e2b'] = 'Avancé';
 $_MODULE['<{cronjobs}prestashop>cronjobsforms_b6610b26530c9ee3d7bc4a478cf35299'] = 'Pour les utilisateurs expérimentés seulement : utilisez votre propre éditeur de crontab au lieu du webservice pour tâches cron de PrestaShop.';
 $_MODULE['<{cronjobs}prestashop>cronjobsforms_2257d36bcb68362b24cf74f626bac599'] = 'Le mode avancé vous permet d\'utiliser votre propre éditeur de tâche cron au lieu du webservice PrestaShop.';
-$_MODULE['<{cronjobs}prestashop>cronjobsforms_94ad8b9f9d516489693dd835cf22bd3b'] = 'Avant tout, vérifiez que la bibliothèque \'curl\' est bien installée sur votre serveur.';
+$_MODULE['<{cronjobs}prestashop>cronjobsforms_94ad8b9f9d516489693dd835cf22bd3b'] = 'Avant tout, vérifiez que la bibliothèque "curl" est bien installée sur votre serveur.';
 $_MODULE['<{cronjobs}prestashop>cronjobsforms_18028ef85b7ce8fbde749a2c49c6d18a'] = 'Pour exécuter vos tâches cron, veuillez insérer la ligne suivante dans votre éditeur de tâches cron :';
 $_MODULE['<{cronjobs}prestashop>cronjobsforms_b55e509c697e4cca0e1d160a7806698f'] = 'Heure';
 $_MODULE['<{cronjobs}prestashop>cronjobsforms_03727ac48595a24daed975559c944a44'] = 'Jour';

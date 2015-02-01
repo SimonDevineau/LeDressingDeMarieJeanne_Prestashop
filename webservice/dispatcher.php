@@ -48,6 +48,7 @@ if (isset($_SERVER['REDIRECT_HTTP_AUTHORIZATION']) && preg_match('/Basic\s+(.*)$
 // Use for image management (using the POST method of the browser to simulate the PUT method)
 $method = isset($_REQUEST['ps_method']) ? $_REQUEST['ps_method'] : $_SERVER['REQUEST_METHOD'];
 
+
 if (isset($_SERVER['PHP_AUTH_USER']))
 	$key = $_SERVER['PHP_AUTH_USER'];
 elseif (isset($_GET['ws_key']))
@@ -55,10 +56,13 @@ elseif (isset($_GET['ws_key']))
 else
 {
 	header($_SERVER['SERVER_PROTOCOL'].' 401 Unauthorized');
-	header('WWW-Authenticate: Basic realm="Welcome to PrestaShop Webservice, please enter the authentication key as the login. No password required."');
+	header('WWW-Authenticate: Basic realm="Welcome to PrestaShop Webservice, please enter the authentication key as the login. No password required. key="'.$key	);
 	die;
 }
 
+if(strpos(@php_sapi_name(), 'CGI')){
+	list($_SERVER['PHP_AUTH_USER'], $_SERVER['PHP_AUTH_PW']) = explode(':' , base64_decode(substr($_SERVER['HTTP_AUTHORIZATION'], 6)));
+};
 
 $input_xml = NULL;
 

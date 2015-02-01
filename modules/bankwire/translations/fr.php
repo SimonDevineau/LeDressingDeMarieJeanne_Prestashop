@@ -50,13 +50,9 @@ $_MODULE['<{bankwire}prestashop>payment_return_19c419a8a4f1cd621853376a930a2e24'
 $_MODULE['<{bankwire}prestashop>payment_return_b9a1cae09e5754424e33764777cfcaa0'] = 'Votre commande sera expédiée dès réception de votre virement.';
 $_MODULE['<{bankwire}prestashop>payment_return_ca7e41a658753c87973936d7ce2429a8'] = 'Pour toute question ou information complémentaire, veuillez contacter notre';
 $_MODULE['<{bankwire}prestashop>payment_return_66fcf4c223bbf4c7c886d4784e1f62e4'] = 'service client';
-$_MODULE['<{bankwire}prestashop>payment_return_d15feee53d81ea16269e54d4784fa123'] = 'Nous avons rencontré un problème avec votre commande. Merci de prendre contact avec notre support client';
+$_MODULE['<{bankwire}prestashop>payment_return_d15feee53d81ea16269e54d4784fa123'] = 'Nous avons rencontré un problème avec votre commande. Nous vous invitons à prendre contact avec notre';
 $_MODULE['<{bankwire}prestashop>payment_5e1695822fc5af98f6b749ea3cbc9b4c'] = 'Payer par virement bancaire';
 $_MODULE['<{bankwire}prestashop>payment_4e1fb9f4b46556d64db55d50629ee301'] = '(le traitement de la commande sera plus long)';
-$_MODULE['<{bankwire}prestashop>payment_execution_99227bacb2b4dfa29ce1701ac265a923'] = 'Paiement par virement bancaire';
-$_MODULE['<{bankwire}prestashop>payment_execution_b939c4940deb5588f47ee8f12c61f11f'] = 'Merci de confirmer votre commande en cliquant sur « Je confirme ma commande »';
-$_MODULE['<{bankwire}prestashop>payment_return_63fb3f7c94ee5d8027bf599885de279d'] = 'N\'oubliez pas d\'indiquer votre numéro de commande n°%d dans le sujet de votre virement.';
-$_MODULE['<{bankwire}prestashop>payment_return_dfe239de8c0b2453a8e8f7657a191d5d'] = 'support client';
 
 
 return $_MODULE;

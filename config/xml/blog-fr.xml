@@ -13,12 +13,166 @@
 	<atom:link href="http://www.prestashop.com/blog/fr/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.prestashop.com/blog/fr</link>
 	<description></description>
-	<lastBuildDate>Thu, 22 Jan 2015 09:18:08 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Jan 2015 14:55:04 +0000</lastBuildDate>
 	<language>fr-FR</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=3.8.1</generator>
 	<item>
+		<title>Refonte de site e-commerce : les aspects SEO à considérer</title>
+		<link>https://www.prestashop.com/blog/fr/refonte-site-e-commerce-les-aspects-seo-considerer/</link>
+		<comments>https://www.prestashop.com/blog/fr/refonte-site-e-commerce-les-aspects-seo-considerer/#comments</comments>
+		<pubDate>Mon, 26 Jan 2015 09:30:49 +0000</pubDate>
+		<dc:creator><![CDATA[Gary Le Masson]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18234</guid>
+		<description><![CDATA[<p>Quelles sont les problématiques SEO à considérer lors d’une refonte de site e-commerce ? Comment s’assurer que la nouvelle version de votre boutique en ligne conservera sur le long terme le référencement acquis jusqu’à maintenant ? Je vous présente dans cet article l’ensemble des éléments SEO à contrôler à l’occasion de tout projet de refonte. [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/refonte-site-e-commerce-les-aspects-seo-considerer/">Refonte de site e-commerce : les aspects SEO à considérer</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Quelles sont les problématiques SEO à considérer lors d’une refonte de site e-commerce ? Comment s’assurer que la nouvelle version de votre boutique en ligne conservera sur le long terme le référencement acquis jusqu’à maintenant ? Je vous présente dans cet article l’ensemble des éléments SEO à contrôler à l’occasion de tout projet de refonte.</p>
+<p><span id="more-18234"></span></p>
+<h4 style="color: #76b32a">Qui est concerné ?</h4>
+<p>Cet article s’adresse essentiellement aux e-commerçants disposant déjà d’un site e-commerce et ayant entrepris la refonte de celui-ci.</p>
+<p>Le cas typique se retrouve lors d’un changement de logiciel e-commerce, vous utilisiez une technologie différente et avez été convaincu de passer à <a href="http://www.prestashop.com">PrestaShop</a> comme des milliers de marchands chaque année. Ou encore vous aviez une ancienne version de PrestaShop et avez souhaité lancer une refonte afin de disposer des dernières fonctionnalités de PrestaShop.</p>
+<p><strong style="color: #c91202">IMPORTANT :</strong><br />
+L’ensemble du travail qu’impliquent les recommandations ci-dessous doit être effectué avant la bascule entre votre ancien et nouveau site de vente en ligne.</p>
+<p><strong style="color: #c91202">ATTENTION :</strong><br />
+Cet article ne s’adresse pas aux boutiques souhaitant changer de nom de domaine, le travail SEO à réaliser est alors différent et cet article ne traite pas de cette question.</p>
+<h4 style="color: #76b32a">Quels avantages et pourquoi sécuriser votre migration ?</h4>
+<ul style="padding-left: 30px">
+<li>Le trafic direct arrivant sur vos anciennes pages sera automatiquement redirigé vers votre nouveau site web.</li>
+<li>Les liens pointant vers les pages de votre ancienne boutique ne tomberont pas vers des erreurs 404.</li>
+<li>Grâce à votre travail sur la structure, la pertinence SEO de votre boutique sera conservée sur le long terme.</li>
+<li>La continuité de votre référencement est ainsi assurée et vous ne constaterez pratiquement aucun changement de trafic entre avant et après la migration.</li>
+</ul>
+<h4 style="color: #76b32a">Les 2 aspects à sécuriser lors de la refonte de votre boutique :</h4>
+<ul style="padding-left: 30px">
+<li>La structure de votre nouveau site e-commerce</li>
+<li>Les redirections 301 à mettre en place</li>
+</ul>
+<h2>Un peu de structure</h2>
+<p>Si vous ne l’avez pas déjà lu… je vous invite à consulter cet article portant sur la <a href="http://www.prestashop.com/blog/fr/structurer-votre-boutique-en-ligne-avec-vos-mots-cles-seo-partie-22/">création d’une structure « SEO friendly » pour un site e-commerce</a>.</p>
+<h4 style="color: #76b32a">Concevoir la structure de votre nouvelle boutique en ligne</h4>
+<p>L’objectif de cette étude préliminaire est pour vous de savoir quelles catégories de produits conserver pour votre nouvelle version. Un principe de base est de garder ce qui fonctionne et faire évoluer ce qui ne fonctionne pas.</p>
+<p>Votre nouvelle boutique a pour objectif de faire mieux que la précédente alors ne supprimez pas les catégories qui vous apportent du trafic SEO et des ventes. Vous devrez absolument recréer ces mêmes catégories sur votre nouvelle boutique.</p>
+<h4 style="color: #76b32a">Et un rapport Google Analytics en cadeau, UN !</h4>
+<p>Oups, vous ne savez pas (encore) comment accéder à ces données et vous avez Google Analytics correctement installé sur votre ancienne boutique ?</p>
+<p>Voici un rapport personnalisé Google Analytics qui devrait répondre à toutes ces questions :</p>
+<p style="text-align: center"><a href="https://www.google.com/analytics/web/template?uid=fEb3DNQXT_-2j8aKs0I9MQ" target="_blank">SEO E-commerce report by PrestaShop</a> (Cliquez sur le lien pour ajouter le rapport)</p>
+<h4 style="color: #76b32a">Comment améliorer encore votre structure ?</h4>
+<p>Les projets de refonte sont toujours l’occasion de remettre en cause l’existant mais aussi d’apporter de nouveaux atouts à votre boutique :</p>
+<ul style="padding-left: 30px">
+<li>Allez visiter les boutiques de vos concurrents et inspirez vous de leurs bonnes idées, le benchmarking… ça marche en SEO&#8230; (à condition de ne pas non plus copier / coller).</li>
+<li>Repassez par la case étude sémantique et recherchez encore les <a href="http://www.prestashop.com/blog/fr/comment-trouver-les-bons-mots-cles-pour-le-seo-de-votre-site-ecommerce-partie-12/">mots clés à cibler en SEO</a>.</li>
+<li>Pour les marchands disposant déjà de campagnes Adwords, <a href="https://www.google.com/analytics/web/template?uid=6MOMFCgGSFWm8rEBqkJxgA" target="_blank">ce rapport analytics</a> sur les termes de recherche pourrait également vous être utile. Ce rapport correspond aux mots clés réellement tapés par vos visiteurs en provenance d’adwords (pas les mots clés achetés)</li>
+</ul>
+<h2>Cette page n’habite plus à cette adresse</h2>
+<h4 style="color: #76b32a">Les redirections 301 c’est quoi ?</h4>
+<p><span style="font-style: italic">Dans le monde réel&#8230;</span></p>
+<p><span style="font-style: italic">Lorsque vous déménagez et que vous souhaitez que « La Poste » transmette votre courrier à votre nouvelle adresse, vous remplissez un formulaire tel que :</span></p>
+<p style="text-align: center">Ancienne adresse postale -&gt; Nouvelle adresse postale</p>
+<p><span style="font-style: italic">Dans le monde virtuel&#8230;</span></p>
+<p><span style="font-style: italic">C’est la même chose et cela s’appelle une redirection 301. Lorsqu’une page web change d’URL, il faut donner une indication à votre serveur pour que toutes les requêtes soient renvoyées sur la nouvelle URL correspondante : </span></p>
+<p style="text-align: center">Ancienne URL -&gt; 301 redirect -&gt; Nouvelle URL</p>
+<h4 style="color: #76b32a">Les différents scénarios de redirections 301:</h4>
+<ul style="padding-left: 30px">
+<li>Le minimum vital et obligatoire :
+<ul style="padding-left: 15px">
+<li>Rediriger toutes vos anciennes URLs vers la page d’accueil de votre site e-commerce. Je ne suis pas adepte de ce scénario, mais il a l’intérêt d’être beaucoup plus simple à intégrer pour vous ou votre équipe technique.</li>
+</ul>
+</li>
+<li>Ma recommandation :
+<ul style="padding-left: 15px">
+<li>Faire des redirections page à page, en réalisant un lien entre votre ancienne structure et la nouvelle.</li>
+</ul>
+</li>
+</ul>
+<h4 style="color: #76b32a">Quand faut-il faire une redirection 301 :</h4>
+<ul style="padding-left: 30px">
+<li>Lorsqu’une ancienne page disparaît complètement : Rediriger cette page vers votre page d’accueil,</li>
+<li>Lorsqu’une page change d’adresse URL : il faut rediriger l’ancienne URL vers la nouvelle.</li>
+</ul>
+<h4 style="color: #76b32a">Comment trouver toutes les URLS de votre site ?</h4>
+<p>Afin de trouver toutes les URLs de votre ancien et de votre nouveau site, je conseille vivement d’utiliser un crawler tel que <a href="http://home.snafu.de/tilman/xenulink.html" target="_blank">Xenu</a> (gratuit) ou <a href="http://www.screamingfrog.co.uk/seo-spider/" target="_blank">Screaming Frog SEO</a> (Payant).</p>
+<p>Avec l’un ou l’autre de ces deux outils, vous pourrez très facilement récupérer la liste des URLs de votre ancien site et de votre nouveau site e-commerce et les exporter au sein d’un tableur Excel.</p>
+<h4 style="color: #76b32a">Faire correspondre les deux structures</h4>
+<p>Partez de votre ancienne arborescence, affichez la liste de ses URLs dans une colonne, 100% de ces URLs doivent soit être redirigées vers leur nouvel équivalent, soit vers la home.</p>
+<p>Lorsque vous avez terminé, je vous recommande de donner ce fichier excel à votre développeur ou agence web pour qu’il / elle l’intègre au fichier .htaccess de votre nouvelle boutique. Si vous avez peur de faire une erreur, je vous invite vivement à faire appel à un expert en référencement.</p>
+<h4 style="color: #76b32a">Deux cas où l’on ne fait pas de redirection 301</h4>
+<ul style="padding-left: 30px">
+<li>Lorsqu’une URL reste la même entre l’ancienne et la nouvelle version de votre site.</li>
+<li>Lorsqu’une nouvelle page est créée au sein de votre nouvelle arborescence et qui n’existait pas par le passé.</li>
+</ul>
+<h2>Le jour du lancement a sonné</h2>
+<h4 style="color: #76b32a">Lorsque tout est prêt pour lancer votre nouvelle boutique,</h4>
+<ul style="padding-left: 30px">
+<li>Placez votre domaine en maintenance en renvoyant le code 503</li>
+<li>Mettez en production votre nouvelle boutique (contenant les redirections 301 dans son .htaccess)</li>
+<li>Désactivez le code maintenance, votre nouveau site est donc live.</li>
+<li>Testez immédiatement les 301 en tapant une ancienne URL, vous devriez être redirigé automatiquement vers la nouvelle URL.</li>
+<li>Pensez aussi à vérifier que le http header renvoyé par votre serveur sur une ancienne URL est bien le code 301 (et pas un autre).</li>
+</ul>
+<p>Si tout est OK, vous avez réussi votre migration…</p>
+<h4 style="color: #76b32a">Vous avez apprécié cet article ?</h4>
+<p>C’est un marchand PrestaShop, lui-même en phase de migration, qui m’a donné l’idée de cet article lors d’un salon en 2014.</p>
+<p>Si vous aussi vous avez des questions, problématiques ou des sujets d’articles SEO que vous souhaiteriez que j’aborde en 2015, n’hésitez pas à contacter <a href="https://twitter.com/prestashop" target="_blank">@PrestaShop</a> sur Twitter ou nous contacter sur notre page <a href="https://www.facebook.com/prestashop" target="_blank">Facebook</a>.</p>
+<p>N’hésitez pas non plus à poser vos questions à propos de cet article dans les commentaires ci-dessous.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/refonte-site-e-commerce-les-aspects-seo-considerer/">Refonte de site e-commerce : les aspects SEO à considérer</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/refonte-site-e-commerce-les-aspects-seo-considerer/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Comment le marketing omnicanal peut aider votre petite entreprise</title>
+		<link>https://www.prestashop.com/blog/fr/comment-marketing-omnicanal-aider-petite-entreprise/</link>
+		<comments>https://www.prestashop.com/blog/fr/comment-marketing-omnicanal-aider-petite-entreprise/#comments</comments>
+		<pubDate>Mon, 26 Jan 2015 09:30:26 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=18283</guid>
+		<description><![CDATA[<p>L&#8217;expérience de vente au détail change : les clients utilisent de plus en plus leur téléphone, leur tablette et leur ordinateur portable pour faire leurs achats. Selon une étude Forrester, 70 % des acheteurs ont utilisé un téléphone mobile pour rechercher des produits vendus en magasin. De plus, un rapport MIT a révélé que 80 [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-marketing-omnicanal-aider-petite-entreprise/">Comment le marketing omnicanal peut aider votre petite entreprise</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>L&rsquo;expérience de vente au détail change : les clients utilisent de plus en plus leur téléphone, leur tablette et leur ordinateur portable pour faire leurs achats. Selon une étude Forrester, 70 % des acheteurs ont utilisé un téléphone mobile pour rechercher des produits vendus en magasin. De plus, un rapport MIT a révélé que 80 % d&rsquo;entre eux vérifient les prix en ligne avant de réaliser un achat en boutique. Résultat : le concept de marketing « omnicanal » remplace progressivement les techniques de marketing grand public plus traditionnelles.</p>
+<p>Tandis que les exemples les plus impressionnants de marketing omnicanal ont été mis en place par les <a href="http://www.theguardian.com/media-network/media-network-blog/2013/jan/15/luxury-retailers-in-store-tech" target="_blank">plus grandes entreprises</a>, les plus petites peuvent s&rsquo;en inspirer pour améliorer l&rsquo;expérience client, fidéliser la clientèle et générer davantage de ventes. Dans l&rsquo;article d&rsquo;aujourd&rsquo;hui, nous allons expliquer ce que signifie omnicanal et comment ce type de marketing peut aider votre petite entreprise.<br />
+<span id="more-18283"></span></p>
+<h2>Multicanal, transcanal et omnicanal</h2>
+<p>Vous avez probablement déjà rencontré différents termes qui décrivent le marketing réalisé sur de multiples canaux. Connaissez-vous les concepts de multicanal, transcanal et omnicanal ? Chacun de ces concepts a ses propres spécificités, mais ils ont tous quelque chose en commun : leur objectif. Dans l&rsquo;environnement hyperconnecté de la vente au détail d&rsquo;aujourd&rsquo;hui, cet objectif consiste à créer une expérience client fluide, homogène et authentique où que vos clients se trouvent, quels que soient les produits que vous vendez, et ce, à tout moment.</p>
+<p>D&rsquo;où l&rsquo;émergence du concept de « vente au détail omnicanale » dans le milieu du marketing. Omni est une locution latine qui signifie « tout ou de toute chose » et, pour les commerçants, elle signifie connecter et harmoniser les informations et l&rsquo;expérience sur l&rsquo;ensemble des canaux où ils sont présents. Toute dernière évolution au sein des stratégies multicanales, ce concept couvre plusieurs aspects, des bonnes pratiques en matière de transcanal à un nouveau paradigme de vente au détail (certains spécialistes en marketing vont encore plus loin en suggérant que l&rsquo;omnicanal est la nature sans frontière de la stratégie qui implique une <a href="http://omnichannel.me/what-is-omnichannel/" target="_blank">nouvelle définition</a> de « votre » client).</p>
+<p>Mais, surtout, l&rsquo;omnicanal nécessite une intégration back-end complète. Concrètement, il s&rsquo;agit d&rsquo;être en mesure de garantir que votre client puisse, par exemple, rechercher un produit sur Internet depuis son domicile, le commander plus tard via son smartphone ou sa tablette et le récupérer dans un magasin à proximité de leur trajet pour se rendre sur leur lieu de travail.</p>
+<h2>Le marketing omnicanal au service de l&rsquo;e-commerce</h2>
+<p>Que vous possédiez une boutique 100 % en ligne ou plusieurs magasins de bricolage, vous pouvez tirer parti des principes du marketing omnicanal pour améliorer votre visibilité, générer plus de conversions et convertir vos visiteurs en clients réguliers. Voici quelques suggestions pour y parvenir.</p>
+<h4 style="color: #46c0d7">Ajouts pertinents de canaux</h4>
+<p>Il peut être tentant de vouloir être présent partout, tout de suite. Après tout, c&rsquo;est ce que veulent les clients, non ? C&rsquo;est exact, mais ce qu&rsquo;ils souhaitent plus encore, c&rsquo;est de bénéficier d&rsquo;une expérience exceptionnelle. Pour leur offrir cette expérience, vous devrez peut-être travailler tout d&rsquo;abord à optimiser votre présence sur un ou deux canaux, pour ensuite l&rsquo;étendre à d&rsquo;autres et vous assurer ainsi que votre approche est efficace. Identifiez clairement les raisons qui vous poussent à exploiter un nouveau canal et votre objectif. Si vous ne maîtrisez pas complètement la gestion au quotidien de votre boutique d&rsquo;e-commerce, vous n&rsquo;êtes peut-être pas encore prêt à ouvrir un magasin physique.</p>
+<h4 style="color: #46c0d7">La crédibilité par la cohérence</h4>
+<p>L&rsquo;un des piliers du marketing omnicanal est la cohérence. Vérifiez que les prix affichés dans votre boutique en ligne, sur vos sites marchands et dans votre magasin physique (le cas échéant) sont identiques et que les clients bénéficient des mêmes remises. Si vous utilisez des remises ciblées pour attirer des visiteurs sur un canal en particulier (des offres spéciales Web par exemple), veillez à ce qu&rsquo;elles soient clairement identifiables pour que les visiteurs soient bien informés des prix que vous proposez sur vos différents canaux.</p>
+<p>Un autre élément de cohérence est la diffusion d&rsquo;une image de marque homogène. Cela peut être aussi simple que de vous assurer que le design de votre site correspond à celui des brochures que vous distribuez sur le marché les samedis. Ou encore de vérifier que votre personnel en boutique dispose des mêmes informations sur les commandes clients que votre équipe d&rsquo;assistance en ligne pour que vos clients bénéficient d&rsquo;un service rapide, où qu&rsquo;ils réalisent leurs achats.</p>
+<h4 style="color: #46c0d7">Organisation en arrière-plan pour une rationalisation accrue</h4>
+<p>La gestion des stocks est un point clé à considérer dans le cadre d&rsquo;une stratégie omnicanale. De nombreux clients utilisent Internet pour effectuer des recherches avant de se rendre en boutique pour réaliser leur achat à proprement parler. D&rsquo;autres parcourent les magasins pour tester les produits, puis rentrent chez eux pour les commander sur leur tablette. Soyez prêt à accueillir tous les types de clients ! Si un client découvre votre produit en ligne, vous devez vous assurer qu&rsquo;il sera disponible en magasin et vice versa.</p>
+<p>La logistique est un autre élément pour lequel les marchands peuvent renforcer la cohérence nécessaire à l&rsquo;élaboration d&rsquo;une stratégie omnicanale. Veillez à ce que vos clients aient le choix : ils seront ravis d&rsquo;apprendre qu&rsquo;ils peuvent régler leurs achats en ligne et les récupérer dans un magasin physique ou se rendre en magasin et faire expédier leur commande.</p>
+<p>Enfin, les clients s&rsquo;attendent à bénéficier d&rsquo;une expérience de paiement rapide, simple et sécurisée, où qu&rsquo;ils se trouvent. Ils ne veulent pas avoir de contraintes en termes de moyens de paiement. Assurez-vous par conséquent que vous prenez en charge tous les types de paiements, des espèces aux portefeuilles numériques, en fonction de vos canaux.</p>
+<h4 style="color: #46c0d7">L&rsquo;importance de la personnalisation</h4>
+<p>Avec la cohérence, la personnalisation est une caractéristique essentielle de l&rsquo;omnicanal. Les clients exigent de vous que vous répondiez à leurs besoins uniques. Les petites entreprises ont l&rsquo;avantage sur les plus grandes, car elles ont tendance à cibler une niche plus restreinte de clients et à offrir un niveau de service beaucoup plus élevé. Utilisez les données commerciales pour créer des campagnes marketing sur mesure ainsi qu&rsquo;une expérience d&rsquo;achat personnalisée grâce à des suggestions de produits soigneusement sélectionnées et des offres surprises.</p>
+<h4 style="color: #46c0d7">Mieux connaître vos clients</h4>
+<p>La seule façon d&rsquo;offrir une expérience personnalisée est d&rsquo;apprendre à connaître vos clients. Utilisez les réseaux sociaux pour en savoir plus sur leurs besoins. Soyez prêt à laisser vos clients décider de la fréquence et du moment de vos échanges. Facilitez l&rsquo;accès aux réseaux sociaux et aux commentaires, et proposez différentes fréquences d&rsquo;envoi de votre newsletter.</p>
+<h2>Pour résumer</h2>
+<ul>
+<li>Préférez la qualité à la quantité et étendez votre présence à d&rsquo;autres canaux de façon pertinente.</li>
+<li>Fidélisez vos clients grâce à une image de marque et des prix cohérents sur l&rsquo;ensemble des canaux.</li>
+<li>Rationalisez la gestion des stocks, les expéditions et les paiements grâce à une organisation en arrière-plan.</li>
+<li>Utilisez les données clients pour créer une expérience d&rsquo;achat personnalisée.</li>
+<li>Entrez en contact avec vos clients via les réseaux sociaux.</li>
+</ul>
+<p>Les techniques omnicanales ne sont pas réservées aux grandes entreprises. Les petites entreprises peuvent tirer profit d&rsquo;une expérience d&rsquo;achat intégrée, homogène et personnalisée. Avez-vous mis en place une stratégie omnicanale ? Faites-nous part de votre expérience.</p>
+<p>Si vous n&rsquo;êtes pas encore présent en ligne, découvrez le <a href="https://www.prestashop.com/">logiciel e-commerce de PrestaShop</a> et créez votre boutique en ligne pour étendre votre présence à un autre canal de vente au détail.</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-marketing-omnicanal-aider-petite-entreprise/">Comment le marketing omnicanal peut aider votre petite entreprise</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/comment-marketing-omnicanal-aider-petite-entreprise/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>4 règles d&#8217;or pour optimiser la page de paiement et booster la conversion</title>
 		<link>https://www.prestashop.com/blog/fr/4-regles-dor-pour-optimiser-la-page-de-paiement-et-booster-la-conversion/</link>
 		<comments>https://www.prestashop.com/blog/fr/4-regles-dor-pour-optimiser-la-page-de-paiement-et-booster-la-conversion/#comments</comments>
@@ -228,7 +382,7 @@ PrestaShop a sélectionné pour vous les dernières tendances en matière de con
 <p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/design-e-commerce-5-tendances-2015/">Design e-commerce : 5 tendances pour 2015</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.prestashop.com/blog/fr/design-e-commerce-5-tendances-2015/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
+		<slash:comments>2</slash:comments>
 		</item>
 		<item>
 		<title>Calendrier e-commerce: 52 secrets pour réussir en 2015</title>
@@ -411,132 +565,6 @@ Enfin, trouvez un « argument de vente » spécifiquement adapté à ce client. 
 <p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-elaborer-des-personas-pour-le-marketing-e-commerce-b2c/">Comment élaborer des personas pour le marketing e-commerce B2C</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.prestashop.com/blog/fr/comment-elaborer-des-personas-pour-le-marketing-e-commerce-b2c/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Comment trouver le meilleur nom de domaine pour votre boutique en ligne</title>
-		<link>https://www.prestashop.com/blog/fr/comment-trouver-le-meilleur-nom-de-domaine-pour-votre-boutique-en-ligne/</link>
-		<comments>https://www.prestashop.com/blog/fr/comment-trouver-le-meilleur-nom-de-domaine-pour-votre-boutique-en-ligne/#comments</comments>
-		<pubDate>Mon, 29 Dec 2014 11:00:51 +0000</pubDate>
-		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
-				<category><![CDATA[Conseils E-commerce]]></category>
-
-		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17910</guid>
-		<description><![CDATA[<p>Dans l&#8217;univers de l&#8217;e-commerce, tout commence par un nom de domaine. A l&#8217;instar du choix de l&#8217;implantation d&#8217;un magasin de bricolage, votre nom de domaine constitue votre identité sur Internet. Choisir un lieu inadapté, ou, dans ce cas, un nom de domaine inefficace peut déterminer la réussite ou l&#8217;échec de votre boutique en ligne. Aujourd&#8217;hui, [...]</p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-trouver-le-meilleur-nom-de-domaine-pour-votre-boutique-en-ligne/">Comment trouver le meilleur nom de domaine pour votre boutique en ligne</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p style="text-align: justify;">Dans l&rsquo;univers de l&rsquo;e-commerce, tout commence par un nom de domaine. A l&rsquo;instar du choix de l&rsquo;implantation d&rsquo;un magasin de bricolage, votre nom de domaine constitue votre identité sur Internet. Choisir un lieu inadapté, ou, dans ce cas, un nom de domaine inefficace peut déterminer la réussite ou l&rsquo;échec de votre boutique en ligne.</p>
-<p style="text-align: left;">Aujourd&rsquo;hui, je vais partager avec vous des astuces pour choisir le nom de domaine qui contribuera au succès de votre boutique en ligne.</p>
-<p style="text-align: center;"><span id="more-17910"></span></p>
-<p style="text-align: justify;">Il existe deux stratégies différentes pour le choix du nom de votre site e-commerce : un nom de domaine associé à des mots-clés ou un nom de domaine qui utilise votre marque. C&rsquo;est à vous de décider quelle option vous convient le mieux. C&rsquo;est parti !</p>
-<h4><span style="color: #ff6600;">Noms de domaines à mots-clés</span></h4>
-<p style="text-align: justify;">L&rsquo;approche la plus simple consiste à établir une liste de 15 à 20 phrases-clés qui définissent les produits que vous vendez. Par exemple, si vous vendez des meubles, il se peut que vous souhaitiez utiliser le mot « maison » dans votre nom de domaine. Même chose si vous vendez du maquillage, vous pouvez vouloir inclure le mot-clé « cosmétique ». Afin de vous aider à choisir le nom de domaine le plus adapté à vos besoins, voici nos conseils :</p>
-<p style="padding-left: 30px; text-align: justify;"><span style="color: #ff6600;">-</span> <strong>Pensez à des phrases courtes</strong> &#8211; 2 à 3 mots-clés suffisent<br />
-<span style="color: #ff6600;">-</span> <strong>Veillez à ce que l&rsquo;orthographe, la prononciation et la mémorisation restent simples</strong> – votre nom de domaine doit être facilement mémorisable et marquer les esprits.<br />
-<span style="color: #ff6600;">-</span> <strong>Faites des recherches</strong> &#8211; listez le nombre de fois qu&rsquo;un mot-clé apparaît pour vous assurer de choisir le nom le plus adapté.<br />
-Remarque : l&rsquo;ajout de tirets à votre nom de domaine n&rsquo;affecte pas les résultats des recherches effectuées pour votre boutique en ligne. Cependant, il est probable que les utilisateurs omettent la présence de tirets.<br />
-Voici des exemples de noms de domaines qui incluent des mots-clés utilisés à bon escient par des boutiques en ligne PrestaShop :</p>
-<p style="padding-left: 30px;"><span style="color: #ff6600;">-</span> www.gardenhome.it<br />
-<span style="color: #ff6600;">-</span> www.johnsonspopcorn.com<br />
-<span style="color: #ff6600;">-</span> www.egolf-balls.com<br />
-<span style="color: #ff6600;">-</span> www.tennisbrands.ru</p>
-<h4><span style="color: #ff6600;">Noms de domaines basés sur une marque</span></h4>
-<p style="text-align: justify;">Si vous décidez de créer un nom de domaine à l&rsquo;image de votre marque, sans mots-clés pertinents, vous devez savoir que vos pages Web doivent inclure une fonction de référencement naturel pour attirer des visiteurs. Un nom de domaine basé sur votre marque doit également correspondre aux produits que vous vendez. Par exemple, si mon site d&rsquo;e-commerce s&rsquo;intitule « Le dressing de Nathalie », je vends probablement des vêtements féminins. L&rsquo;orthographe, la prononciation et la mémorisation doivent bien sûr toujours être simples. Veillez également à ce que le nom de votre site soit unique, ou ne soit pas trop similaire à un autre, auquel cas vous perdrez facilement en trafic et enfreindrez potentiellement des lois de propriété intellectuelle.<br />
-Voici des exemples de noms de domaines basés sur des marques utilisés à bon escient par des boutiques en ligne PrestaShop :</p>
-<p style="padding-left: 30px;"><span style="color: #ff6600;">-</span> www.shop.heydude.pl/pl/<br />
-<span style="color: #ff6600;">-</span> www.lilac-lane.de/<br />
-<span style="color: #ff6600;">-</span> www.madamechoup.com/<br />
-<span style="color: #ff6600;">-</span> www.fontable.it/</p>
-<h4><span style="color: #ff6600;">Liens utiles</span></h4>
-<p style="text-align: justify;">Pour vous aider au maximum dans votre réflexion et votre choix, voici quelques liens qui vous seront utiles.<br />
-Ces sites Web vous permettent de saisir les mots que vous souhaitez inclure dans votre nom de domaine et vous proposent une liste de suggestions de noms de domaines disponibles qui s&rsquo;appuient sur ces mots-clés :</p>
-<p style="padding-left: 30px;"><span style="color: #ff6600;">-</span> <a href="http://www.domainsbot.com/" target="_blank">DomainsBot</a><br />
-<span style="color: #ff6600;">-</span> <a href="http://www.leandomainsearch.com/" target="_blank">Lean Domain Search</a></p>
-<p style="text-align: justify;">Une fois votre nom de domaine choisi, nous vous recommandons fortement d&rsquo;utiliser l&rsquo;un de nos <a href="http://www.prestashop.com/fr/hebergement-ecommerce" target="_blank">hébergeurs</a> partenaires pour acquérir votre nom de domaine et héberger votre boutique en ligne PrestaShop.</p>
-<p style="text-align: justify;">Vous êtes maintenant prêt à vous lancer dans la création d&rsquo;un site d&rsquo;e-commerce à succès ! Vous souhaitez commencer à utiliser PrestaShop ? Créez et gérez votre propre boutique en ligne GRATUITEMENT : <a href="http://www.prestashop.com/fr/telechargement" target="_blank">téléchargez PrestaShop dès aujourd&rsquo;hui !</a></p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-trouver-le-meilleur-nom-de-domaine-pour-votre-boutique-en-ligne/">Comment trouver le meilleur nom de domaine pour votre boutique en ligne</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.prestashop.com/blog/fr/comment-trouver-le-meilleur-nom-de-domaine-pour-votre-boutique-en-ligne/feed/</wfw:commentRss>
-		<slash:comments>5</slash:comments>
-		</item>
-		<item>
-		<title>La sélection de l’équipe du mois de Décembre : 4 fonctionnalités pour booster votre activité</title>
-		<link>https://www.prestashop.com/blog/fr/la-selection-de-lequipe-du-mois-de-decembre-4-fonctionnalites-pour-booster-votre-activite/</link>
-		<comments>https://www.prestashop.com/blog/fr/la-selection-de-lequipe-du-mois-de-decembre-4-fonctionnalites-pour-booster-votre-activite/#comments</comments>
-		<pubDate>Mon, 22 Dec 2014 14:12:12 +0000</pubDate>
-		<dc:creator><![CDATA[Elie Tronel]]></dc:creator>
-				<category><![CDATA[Partenaires PrestaShop]]></category>
-
-		<guid isPermaLink="false">http://www.prestashop.com/blog/fr/?p=17986</guid>
-		<description><![CDATA[<p>Nous sommes maintenant à la veille des fêtes, quoi de mieux en cette fin d’année que de nouvelles fonctionnalités pour maximiser vos ventes et votre visibilité. Nous avons sélectionné pour vous quatre modules : MaPubFacile : Création et diffusion de campagnes publicitaires Klik &#38; Pay  : Solution de paiement sécurisée OVH : Solution d’hébergement StickN Go par Avery : [...]</p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/la-selection-de-lequipe-du-mois-de-decembre-4-fonctionnalites-pour-booster-votre-activite/">La sélection de l’équipe du mois de Décembre : 4 fonctionnalités pour booster votre activité</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p><img class="alignnone size-full wp-image-18192" alt="" src="http://www.prestashop.com/blog/en/files/2014/08/staff-picks-1.png" width="200" height="155" align="right" />Nous sommes maintenant à la veille des fêtes, quoi de mieux en cette fin d’année que de nouvelles fonctionnalités pour maximiser vos ventes et votre visibilité.</p>
-<p>Nous avons sélectionné pour vous quatre modules :</p>
-<p><a href="#mapubfacile"><span style="color: #99cc00;"><strong>MaPubFacile</strong></span></a> : Création et diffusion de campagnes publicitaires<br />
-<a href="#klikandpay"><span style="color: #99cc00;"><strong>Klik &amp; Pay</strong> </span></a> : Solution de paiement sécurisée<br />
-<a href="#ovh"><span style="color: #99cc00;"><strong>OVH</strong></span></a> : Solution d’hébergement<br />
-<a href="#stickngo"><span style="color: #99cc00;"><strong>StickN Go par Avery</strong></span></a> : Personnalisation d’étiquettes colis</p>
-<p><span id="more-17986"></span><br />
-<a name="mapubfacile"></a></p>
-<h2><a href="http://addons.prestashop.com/fr/publicite-marketing-newsletter-modules/18044-mapubfacile.html" target="_blank"><span style="color: #008000;">1. MaPubFacile</span></a></h2>
-<p style="text-align: center;"><img class="aligncenter  wp-image-18036" title="ma pub facile" alt="" src="http://www.prestashop.com/blog/fr/files/2014/12/ma-pub-facile.png" width="482" height="394" /></p>
-<p><span style="color: #ed2279;"><strong>À quoi sert cette fonctionnalité ?</strong></span></p>
-<p>Avec MaPubFacile vous augmentez votre notoriété quel que soit votre budget en mettant en place des bannières publicitaires sur des sites à forte audience.</p>
-<p>Vous aurez la possibilité de cibler votre zone de chalandise (Ville, Département, Région, Pays) mais aussi un segment particulier  (Sexe, Catégorie socio-professionnelle, âge etc). Suivez les performances de vos campagnes jour après jour !<strong></strong><br />
-<strong></strong></p>
-<p><span style="color: #ed2279;"><strong>Pourquoi l’avons-nous sélectionnée ?</strong></span></p>
-<p>Ce module est très simple d’utilisation, il suffit de créer un compte sur le site MaPubFacile et votre publicité sera en ligne en 5 minutes.<br />
-La publicité est un excellent moyen pour vous faire connaître auprès de votre cible. Vous pourrez communiquer sur 200 sites web français à forte notoriété et boosterez ainsi votre popularité et le trafic sur votre site.</p>
-<p><span style="color: #ed2279;"><strong>Comment vous aide-t-elle à améliorer votre conversion ?</strong></span></p>
-<p>Faire des publicités ciblées est un moyen qui vous assure un trafic plus important et surtout qualifié.</p>
-<p>Avec cette hausse de trafic vous augmentez votre notoriété, ce qui influera sur le taux de conversion. Votre site e-commerce gagnera en crédibilité en étant présent sur des sites de confiance.</p>
-<p>Une fois votre campagne lancée vous aurez la possibilité d’en assurer le suivi via un tableau de bord personnalisé. Ainsi vous pourrez mesurer vos performances et adapter vos prochaines campagnes.</p>
-<p><a name="klikandpay"></a></p>
-<h2><a href="http://addons.prestashop.com/fr/paiement/17911-klikandpay.html" target="_blank"><span style="color: #008000;">2. Klik and Pay</span></a></h2>
-<p style="text-align: center;"><img class="aligncenter  wp-image-17992" alt="" src="http://www.prestashop.com/blog/fr/files/2014/12/klik.png" width="520" height="362" /></p>
-<p><span style="color: #ed2279;"><strong>À quoi sert cette fonctionnalité ?</strong></span></p>
-<p>Klik and Pay est un module de paiement permettant à vos clients de régler leur achat par cartes bancaires (Visa, MasterCard, Amex&#8230;) Chèques, Virement et prélèvement SEPA.</p>
-<p>Vous avez également la possibilité de gérer vos comptes marchands dans plus de 20 devises.</p>
-<p>Avec ce module vous avez une solution de paiement complète sans avoir besoin de contrat de VAD vous libérant ainsi de toutes les démarches administratives longues et fastidieuses.</p>
-<p><span style="color: #ed2279;"><strong>Pourquoi l’avons-nous sélectionnée ?</strong></span></p>
-<p>Facile d’utilisation, Klik and Pay vous permet d’offrir à vos clients un paiement sécurisé accessible sur PC, Tablette et Smartphone, en partenariat avec des banques.</p>
-<p>Klik and Pay  accompagne les marchands depuis plus de 15 ans, en France, en  Europe et partout dans le monde.</p>
-<p><span style="color: #ed2279;"><strong>Comment vous aide-t-elle à améliorer votre conversion ?</strong></span></p>
-<p>Le fait d’avoir un module de paiement rapide et sécurisé met le client dans les meilleurs conditions, il a la possibilité d’effectuer son achat dans la devise de son choix (Euro, franc Suisse, Dollar Américain, Yen, Livre Sterling etc).</p>
-<p>Les pages de paiement peuvent être présentées en Français, Anglais, Allemand, Espagnol, Italien ou Néerlandais ce qui rassure les clients. De plus le module possède des systèmes de cryptage et anti-fraude pour que la sécurité des transactions en ligne soit optimale.</p>
-<p>Le paiement peut s’effectuer par e-mail ou par SMS, le client a également la possibilité de régler en payant comptant ou en plusieurs fois (2 à 6).</p>
-<p>Ces facilités de paiement et la sécurité vous permettront de d’améliorer votre taux de conversion.</p>
-<p><a name="ovh"></a></p>
-<h2><a href="http://www.ovh.com/fr/solutions/prestashop/?pk_campaign=partenariatprestashop&amp;pk_kwd=pagefr" target="_blank"><span style="color: #008000;">3. OVH</span></a></h2>
-<p style="text-align: center;"><img class="aligncenter  wp-image-18004" alt="" src="http://www.prestashop.com/blog/fr/files/2014/12/ovh.png" width="488" height="264" /></p>
-<p><span style="color: #ed2279;"><strong>À quoi sert cette fonctionnalité ?</strong></span></p>
-<p>OVH vous permet d’héberger votre site internet avec la possibilité d’avoir un serveur dédié et un hébergement mutualisé.</p>
-<p>C’est un hébergeur sécurisé avec lequel vous pouvez acheter votre nom de domaine et gérer les éventuels pic de charge sur votre site e-commerce.</p>
-<p>Un hébergeur de qualité est aujourd’hui une priorité pour tout  e-commerçant souhaitant avoir une boutique fluide, rapide et sécurisée.</p>
-<p><span style="color: #ed2279;"><strong>Pourquoi l’avons-nous sélectionnée ?</strong></span></p>
-<p>OVH est le n°1 de l’hébergement web en France et en Europe avec 15 ans d’expérience.</p>
-<p>Un des principaux avantages d’OVH est sa facilité d’utilisation, en effet il ne requiert aucune compétence technique particulière.<strong></strong></p>
-<p><span style="color: #ed2279;"><strong>Comment vous aide-t-elle à améliorer votre conversion ?</strong></span></p>
-<p>L’hébergeur OVH est très performant et gère les fortes affluences que votre site peut connaitre pendant les périodes de soldes ou une campagne de pub. Votre site sera toujours accessible même si un grand nombre de personnes consulte votre boutique en ligne.</p>
-<p>Cette rapidité de chargement rendra donc la visite plus agréable pour le client qui bénéficiera ainsi d’une expérience d’achat optimale.</p>
-<p>A savoir que 40% des clients quittent un site internet lorsque les pages chargent en plus de 3 secondes.</p>
-<p>OVH est l’hébergeur parfait pour une boutique en ligne performante !</p>
-<p><a name="stickngo"></a></p>
-<h2><a href="http://www.prestashop.com/fr/partenaires/livraison/stickngo" target="_blank"><span style="color: #008000;">4. StickN Go par Avery</span></a></h2>
-<p style="text-align: center;"><img class="aligncenter  wp-image-17995" alt="" src="http://www.prestashop.com/blog/fr/files/2014/12/stickNgo.png" width="544" height="168" /></p>
-<p><span style="color: #ed2279;"><strong>À quoi sert cette fonctionnalité ?</strong></span></p>
-<p>Avery est le leader mondial de la fabrication d’étiquettes adhésives et d’articles en papier, ils ont créé le module SickN Go, solution idéale pour vos factures et bons de livraison.</p>
-<p>Imprimez vos factures et bons de livraison en une fois, l’étiquette avec l’adresse du destinataire est détachable pour la coller directement sur le colis à envoyer. Vous gagnerez du temps et éviterez les erreurs.</p>
-<p>Regroupez en un seul geste l’ensemble des actions nécessaires à une expédition réussie depuis votre site e-commerce :</p>
-<p><span style="color: #ed2279;"><strong>Pourquoi l’avons-nous sélectionnée ?</strong></span></p>
-<p><strong></strong>StickN Go facilite le processus d’expédition, vous n’aurez plus à préparer vos bons de livraison d’un côté et les adresses des clients de l’autre. Il n’y aura donc plus de risque qu’un colis soit mal expédié et que cela vous fasse perdre du temps et peut être des clients.</p>
-<p><span style="color: #ed2279;"><strong>Comment vous aide-t-elle à améliorer votre conversion ?</strong></span></p>
-<p>Le format est adapté pour imprimer directement le bon de livraison/facture depuis l’outil gestion PrestaShop, l’étiquette est positionnée à l’endroit de l’adresse du client. Ce module facilitera le processus d’envoi et optimisera la qualité de livraison pour les clients.</p>
-<p>Un service de qualité encourage toujours les clients à revenir sur votre site e-commerce.</p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/la-selection-de-lequipe-du-mois-de-decembre-4-fonctionnalites-pour-booster-votre-activite/">La sélection de l’équipe du mois de Décembre : 4 fonctionnalités pour booster votre activité</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.prestashop.com/blog/fr/la-selection-de-lequipe-du-mois-de-decembre-4-fonctionnalites-pour-booster-votre-activite/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

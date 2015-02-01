@@ -10,9 +10,11 @@ $_MODULE['<{blockcategories}prestashop>blockcategories_23e0d4ecc25de9b2777fdaca3
 $_MODULE['<{blockcategories}prestashop>blockcategories_0cf328636f0d607ac24a5c435866b94b'] = 'Dynamic HTML : choix invalide';
 $_MODULE['<{blockcategories}prestashop>blockcategories_f4f70727dc34561dfde1a3c529b6205c'] = 'Paramètres';
 $_MODULE['<{blockcategories}prestashop>blockcategories_1379a6b19242372c1f23cc9adedfcdd6'] = 'Catégorie racine';
+$_MODULE['<{blockcategories}prestashop>blockcategories_c6d333d07d30f7b4c31a94bbd510bf88'] = 'Choisissez quelle catégorie afficher dans ce bloc. La catégorie actuelle est celle où le visiteur navigue actuellement.';
 $_MODULE['<{blockcategories}prestashop>blockcategories_89b278a71f2be5f620307502326587a0'] = 'Catégorie d\'accueil';
 $_MODULE['<{blockcategories}prestashop>blockcategories_62381fc27e62649a16182a616de3f7ea'] = 'Catégorie actuelle';
 $_MODULE['<{blockcategories}prestashop>blockcategories_52b68aaa602d202c340d9e4e9157f276'] = 'Catégorie parente';
+$_MODULE['<{blockcategories}prestashop>blockcategories_199f6ead1ce5a19131b6b6c568306d81'] = 'Catégorie actuelle, ou, si elle n\'a pas de sous-catégorie, la catégorie parent';
 $_MODULE['<{blockcategories}prestashop>blockcategories_19561e33450d1d3dfe6af08df5710dd0'] = 'Profondeur maximum';
 $_MODULE['<{blockcategories}prestashop>blockcategories_584d4e251b6f778eda9cfc2fc756b0b0'] = 'Détermine la profondeur maximale des catégories affichées (0 = infinie).';
 $_MODULE['<{blockcategories}prestashop>blockcategories_971fd8cc345d8bd9f92e9f7d88fdf20c'] = 'Dynamique';
