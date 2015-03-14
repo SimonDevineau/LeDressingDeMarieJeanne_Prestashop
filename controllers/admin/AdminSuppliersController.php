@@ -49,16 +49,18 @@ class AdminSuppliersControllerCore extends AdminController
 			)
 		);
 
-		$this->_select = 'COUNT(DISTINCT ps.`id_product`) AS products';
-		$this->_join = 'LEFT JOIN `'._DB_PREFIX_.'product_supplier` ps ON (a.`id_supplier` = ps.`id_supplier`)';
+		$this->_select = 'COUNT(DISTINCT ps.`id_product`) AS products, psad.`email` AS email, psad.`phone_mobile` AS phone_mobile';
+		$this->_join = 'LEFT JOIN `'._DB_PREFIX_.'product_supplier` ps ON (a.`id_supplier` = ps.`id_supplier`) 
+						LEFT JOIN `'._DB_PREFIX_.'address` psad ON (a.`id_supplier` = psad.`id_supplier`)';
 		$this->_group = 'GROUP BY a.`id_supplier`';
 
 		$this->fieldImageSettings = array('name' => 'logo', 'dir' => 'su');
 
 		$this->fields_list = array(
-			'id_supplier' => array('title' => $this->l('ID'), 'align' => 'center', 'class' => 'fixed-width-xs'),
-			'logo' => array('title' => $this->l('Logo'), 'align' => 'center', 'image' => 'su', 'orderby' => false, 'search' => false),
+			'id_supplier' => array('title' => $this->l('ID'), 'align' => 'center', 'class' => 'fixed-width-xs'),	
 			'name' => array('title' => $this->l('Name')),
+			'phone_mobile' => array('title' => $this->l('Mobile phone')),
+			'email' => array('title' => $this->l('Email'), 'align' => 'center','tmpTableFilter' => true),
 			'products' => array('title' => $this->l('Number of products'), 'align' => 'right', 'filter_type' => 'int', 'tmpTableFilter' => true),
 			'active' => array('title' => $this->l('Enabled'), 'align' => 'center', 'active' => 'status', 'type' => 'bool', 'orderby' => false, 'class' => 'fixed-width-xs')
 		);
@@ -162,6 +164,14 @@ class AdminSuppliersControllerCore extends AdminController
 					'maxlength' => 16,
 					'col' => 4,
 					'hint' => $this->l('Mobile phone number for this supplier.')
+				),
+				array(
+					'type' => 'text',
+					'label' => $this->l('Email'),
+					'name' => 'email',
+					'maxlength' => 35,
+					'col' => 4,
+					'hint' => $this->l('Email de la déposante')
 				),
 				array(
 					'type' => 'text',
@@ -298,6 +308,7 @@ class AdminSuppliersControllerCore extends AdminController
 				'id_address' => $address->id,
 				'phone' => $address->phone,
 				'phone_mobile' => $address->phone_mobile,
+				'email' => $address->email,
 				'address' => $address->address1,
 				'address2' => $address->address2,
 				'postcode' => $address->postcode,
@@ -451,6 +462,7 @@ class AdminSuppliersControllerCore extends AdminController
 				$address = new Address(); // creates address
 
 			$address->alias = Tools::getValue('name', null);
+			$address->email = Tools::getValue('email', null);
 			$address->lastname = 'supplier'; // skip problem with numeric characters in supplier name
 			$address->firstname = 'supplier'; // skip problem with numeric characters in supplier name
 			$address->address1 = Tools::getValue('address', null);

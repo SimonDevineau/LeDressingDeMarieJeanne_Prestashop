@@ -82,6 +82,9 @@ class AddressCore extends ObjectModel
 
 	/** @var string Mobile phone number */
 	public $phone_mobile;
+	
+	/** @var string email*/
+	public $email;
 
 	/** @var string VAT number */
 	public $vat_number;
@@ -126,6 +129,7 @@ class AddressCore extends ObjectModel
 			'other' => 				array('type' => self::TYPE_STRING, 'validate' => 'isMessage', 'size' => 300),
 			'phone' => 				array('type' => self::TYPE_STRING, 'validate' => 'isPhoneNumber', 'size' => 32),
 			'phone_mobile' => 		array('type' => self::TYPE_STRING, 'validate' => 'isPhoneNumber', 'size' => 32),
+			'email' => 				array('type' => self::TYPE_STRING, 'validate' => 'isEmail', 'size' => 35),
 			'dni' => 				array('type' => self::TYPE_STRING, 'validate' => 'isDniLite', 'size' => 16),
 			'deleted' => 			array('type' => self::TYPE_BOOL, 'validate' => 'isBool', 'copy_post' => false),
 			'date_add' => 			array('type' => self::TYPE_DATE, 'validate' => 'isDateFormat', 'copy_post' => false),
