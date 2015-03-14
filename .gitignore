@@ -1,10 +1,8 @@
 admin/
-admin*/
 cache/
 install/
 install.old/
 modules/gamification/
 .sass-cache/
 img/tmp/
-
-config/settings.inc.php
+config/
