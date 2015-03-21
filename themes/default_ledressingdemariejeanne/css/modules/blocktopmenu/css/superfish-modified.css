@@ -14,8 +14,8 @@
   position: relative;
   padding: 0;
   width: 100%;
-  border-bottom: 3px solid #e9e9e9;
-  background: #f6f6f6; }
+  background: #D2C7B7;
+  text-align: center; }
   @media (max-width: 767px) {
     .sf-menu {
       display: none; } }
@@ -36,9 +36,9 @@
   /* fixes IE7 'sticky bug' */ }
 
 .sf-menu > li {
-  float: left;
   border-right: 1px solid #B5B5B5;
-  margin-bottom: -3px; }
+  margin-bottom: -3px;
+  display: inline-block; }
   @media (max-width: 767px) {
     .sf-menu > li {
       float: none;
@@ -62,8 +62,7 @@
     text-transform: uppercase;
     color: #484848;
     display: block;
-    padding: 17px 20px;
-    border-bottom: 3px solid #e9e9e9; }
+    padding: 17px 20px; }
   .sf-menu > li.sfHover > a,
   .sf-menu > li > a:hover, .sf-menu > li.sfHoverForce > a {
     background: #EEAC5C;
@@ -136,7 +135,7 @@ ul.sf-menu li li li.sfHover ul {
   top: 0; }
 
 .sf-menu > li > ul {
-  padding: 26px 30px 31px;
+  padding: 10px 30px 0px 30px;
   width: 100%; }
   .sf-menu > li > ul > li > a {
     text-transform: uppercase;
@@ -146,6 +145,7 @@ ul.sf-menu li li li.sfHover ul {
       color: #515151; }
 
 .sf-menu > li > ul > li {
+  padding-bottom: 10px;
   float: left;
   width: 20%;
   padding-right: 15px; }

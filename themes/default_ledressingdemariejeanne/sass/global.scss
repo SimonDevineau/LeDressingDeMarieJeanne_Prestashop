@@ -7,6 +7,12 @@
 @import "bootstrap";
 @import "font-awesome";
 
+//Specific to the dressing
+#dressing-logo{
+	text-align: center;
+	margin: auto
+}
+
 a:hover {
 	text-decoration: none;
 }
@@ -83,6 +89,7 @@ header {
 		}
 		#header_logo {
 			padding-top: 15px;
+			width: 100%;
 			@extend .col-sm-4;
 			@media (max-width: $screen-md) {
 				padding-top: 40px;
@@ -1687,7 +1694,7 @@ div.star a:hover {
 // BREADCRUMB
 .breadcrumb {
 	display: inline-block;
-	padding: 0 11px;
+	padding: 0 11px 0px 10px;
 	border: 1px solid $base-border-color;
 	font-weight: bold;
 	font-size: 12px;
@@ -1706,7 +1713,7 @@ div.star a:hover {
 	a {
 		display: inline-block;
 		background: $light-background;
-		padding: 0 15px 0 22px;
+		padding: 0 15px 1px 22px;
 		margin-left: -26px;
 		position: relative;
 		z-index: 2;
@@ -1840,7 +1847,7 @@ div.star a:hover {
 				padding-bottom: 8px;
 				a {
 					font-weight: bold;
-					text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.4);
+					//text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.4);
 				}
 			}
 		}
@@ -1882,7 +1889,7 @@ div.star a:hover {
 			clear: left;
 		}
 		#social_block {
-			float: left;
+			float: right;
 			width: 50%;
 			padding: 22px 15px 0 15px;
 			// max 767px
@@ -3496,3 +3503,6 @@ div.star.star_hover {
 		}
 	}
 }
+
+//Import module I have trouble to modify the sass
+@import "modules/blockuserinfo/blockuserinfo";

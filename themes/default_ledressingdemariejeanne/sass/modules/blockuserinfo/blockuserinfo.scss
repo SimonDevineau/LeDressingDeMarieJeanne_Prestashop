@@ -4,6 +4,7 @@
 	float: right;
 	border-left: 0px;//1px solid $contacts-border-color; hasbeenchanged
 	border-right: 0px;// solid $contacts-border-color; hasbeenchanged
+	padding: 2px 0px 0px 0px;
 	a {
 		color: $light-text-color;
 		font-weight: bold;
@@ -14,8 +15,10 @@
 		@media (max-width: $screen-xs - 1) {
 			font-size: 11px;
 		}
+
 		&:hover, &.active {
-			background: $base-body-color;
+			color: $base-body-color;
 		}
-	}
+	}		
+		
 }

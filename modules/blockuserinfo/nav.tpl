@@ -1,10 +1,10 @@
 <!-- Block user information module NAV  -->
 {if $logged}
-<div class="header_user_info">
+<div class="header_user_info col-sm-4 pull-left">
 	<a href="{$link->getPageLink('my-account', true)|escape:'html'}" title="{l s='View my customer account' mod='blockuserinfo'}" class="account" rel="nofollow"><span>{$cookie->customer_firstname} {$cookie->customer_lastname}</span></a>
 </div>
 {/if}
-<div class="header_user_info">
+<div class="header_user_info col-sm-4 pull-left">
 	{if $logged}
 		<a class="logout" href="{$link->getPageLink('index', true, NULL, "mylogout")|escape:'html'}" rel="nofollow" title="{l s='Log me out' mod='blockuserinfo'}">{l s='Sign out' mod='blockuserinfo'}</a>
 	{else}

@@ -4,7 +4,7 @@
   margin-bottom: 40px; }
 
 .top-hr {
-  background: none;
+  background: #C4C4C4;
   height: 5px;
   margin: 2px 0 31px; }
 
@@ -46,8 +46,8 @@ a.fancybox-nav {
   display: block;
   cursor: pointer;
   padding: 5px;
-  border: 0px solid #dbdbdb;
-  background: #E5C9A7; }
+  border: 1px solid #dbdbdb;
+  background: #D2C7B7; }
   @media (max-width: 767px) {
     .pb-left-column #image-block {
       width: 280px;
@@ -124,7 +124,7 @@ a.fancybox-nav {
     height: 90px;
     width: 90px;
     cursor: pointer;
-    border: 0px solid #dbdbdb;
+    border: 1px solid #dbdbdb;
     margin-right: 8px;
     line-height: 0;
     -moz-box-sizing: border-box;
@@ -187,7 +187,7 @@ span.view_scroll_spacer {
   #view_scroll_left:before,
   #view_scroll_right:before {
     padding-left: 2px;
-    color: #777676;
+    color: #c0c0c0;
     font-family: "FontAwesome";
     font-size: 20px;
     line-height: 22px; }
@@ -360,7 +360,7 @@ span.view_scroll_spacer {
   #attributes .attribute_list .form-control {
     max-width: 230px; }
     #attributes .attribute_list .form-control option {
-      background: #E5C9A7;
+      background: #D2C7B7;
       color: #666; }
   #attributes .attribute_list ul {
     clear: both; }
@@ -416,7 +416,7 @@ span.view_scroll_spacer {
   text-decoration: none; }
 
 .box-info-product {
-  background: #F0F0F0;
+  background: #f6f6f6;
   border: 1px solid #d2d0d0;
   border-top: 1px solid #b0afaf;
   border-bottom: 1px solid #b0afaf; }
@@ -519,11 +519,8 @@ span.view_scroll_spacer {
       filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#007ab7', endColorstr='#009ad0',GradientType=0 );
       background-position: 0 0; }
 
-#center_column {
-  background-color: #E7B981; }
-
 #center_column.col-sm-9 .col-md-3 .box-info-product {
-  background: #F0F0F0;
+  background: #f6f6f6;
   border: 1px solid #d2d0d0;
   border-top: 1px solid #b0afaf;
   border-bottom: 1px solid #b0afaf; }
@@ -628,7 +625,7 @@ span.view_scroll_spacer {
   border-bottom: 1px solid #B5B5B5;
   width: 100%;
   margin: 0 0 20px;
-  background: #E5C9A7; }
+  background: #D2C7B7; }
   .table-data-sheet tr {
     border-top: 1px solid #B5B5B5; }
     .table-data-sheet tr.even {
@@ -648,7 +645,7 @@ table.table-product-discounts {
   border-right: 1px solid #B5B5B5;
   width: 50%;
   margin: 0 0 20px;
-  background: #E5C9A7; }
+  background: #D2C7B7; }
   @media (max-width: 767px) {
     table.table-product-discounts {
       width: 100%; } }

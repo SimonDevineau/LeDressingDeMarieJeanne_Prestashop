@@ -6,3 +6,4 @@ modules/gamification/
 .sass-cache/
 img/tmp/
 config/
+*.DS_Store

@@ -85,7 +85,7 @@
   width: 100%; }
 #homepage-slider .bx-wrapper .bx-loading {
   min-height: 50px;
-  background: url(images/bx_loader.gif) center center no-repeat #E5C9A7;
+  background: url(images/bx_loader.gif) center center no-repeat #D2C7B7;
   height: 100%;
   width: 100%;
   position: absolute;
@@ -139,7 +139,7 @@
     height: 48px;
     width: 48px;
     display: block;
-    background: #E5C9A7;
+    background: #D2C7B7;
     content: ".";
     opacity: 0.14;
     text-indent: -9999px;
